@@ -519,3 +519,4 @@
 - Historical entry: 2001-05-27
 - Historical entry: 2001-05-28
 - Historical entry: 2001-05-29
+- Historical entry: 2001-05-30
