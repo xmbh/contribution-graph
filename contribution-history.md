@@ -370,3 +370,4 @@
 - Historical entry: 2000-12-29
 - Historical entry: 2000-12-30
 - Historical entry: 2000-12-31
+- Historical entry: 2001-01-01
