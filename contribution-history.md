@@ -255,3 +255,4 @@
 - Historical entry: 2000-09-05
 - Historical entry: 2000-09-06
 - Historical entry: 2000-09-07
+- Historical entry: 2000-09-08
