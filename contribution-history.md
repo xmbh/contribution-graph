@@ -755,3 +755,4 @@
 - Historical entry: 2002-01-18
 - Historical entry: 2002-01-19
 - Historical entry: 2002-01-20
+- Historical entry: 2002-01-21
