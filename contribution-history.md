@@ -848,3 +848,4 @@
 - Historical entry: 2002-04-21
 - Historical entry: 2002-04-22
 - Historical entry: 2002-04-23
+- Historical entry: 2002-04-24
