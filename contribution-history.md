@@ -1426,3 +1426,4 @@
 - Historical entry: 2003-11-20
 - Historical entry: 2003-11-21
 - Historical entry: 2003-11-22
+- Historical entry: 2003-11-23
