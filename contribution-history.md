@@ -1080,3 +1080,4 @@
 - Historical entry: 2002-12-09
 - Historical entry: 2002-12-10
 - Historical entry: 2002-12-11
+- Historical entry: 2002-12-12
