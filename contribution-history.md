@@ -1249,3 +1249,4 @@
 - Historical entry: 2003-05-27
 - Historical entry: 2003-05-28
 - Historical entry: 2003-05-29
+- Historical entry: 2003-05-30
