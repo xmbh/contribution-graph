@@ -1302,3 +1302,4 @@
 - Historical entry: 2003-07-19
 - Historical entry: 2003-07-20
 - Historical entry: 2003-07-21
+- Historical entry: 2003-07-22
