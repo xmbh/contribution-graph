@@ -160,3 +160,4 @@
 - Historical entry: 2000-06-02
 - Historical entry: 2000-06-03
 - Historical entry: 2000-06-04
+- Historical entry: 2000-06-05
