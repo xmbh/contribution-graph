@@ -584,3 +584,4 @@
 - Historical entry: 2001-07-31
 - Historical entry: 2001-08-01
 - Historical entry: 2001-08-02
+- Historical entry: 2001-08-03
