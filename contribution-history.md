@@ -868,3 +868,4 @@
 - Historical entry: 2002-05-11
 - Historical entry: 2002-05-12
 - Historical entry: 2002-05-13
+- Historical entry: 2002-05-14
