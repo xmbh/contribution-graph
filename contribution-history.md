@@ -528,3 +528,4 @@
 - Historical entry: 2001-06-05
 - Historical entry: 2001-06-06
 - Historical entry: 2001-06-07
+- Historical entry: 2001-06-08
