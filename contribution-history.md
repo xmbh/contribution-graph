@@ -264,3 +264,4 @@
 - Historical entry: 2000-09-14
 - Historical entry: 2000-09-15
 - Historical entry: 2000-09-16
+- Historical entry: 2000-09-17
