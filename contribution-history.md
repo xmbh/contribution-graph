@@ -403,3 +403,4 @@
 - Historical entry: 2001-01-31
 - Historical entry: 2001-02-01
 - Historical entry: 2001-02-02
+- Historical entry: 2001-02-03
