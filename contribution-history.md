@@ -1245,3 +1245,4 @@
 - Historical entry: 2003-05-23
 - Historical entry: 2003-05-24
 - Historical entry: 2003-05-25
+- Historical entry: 2003-05-26
