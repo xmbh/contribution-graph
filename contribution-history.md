@@ -622,3 +622,4 @@
 - Historical entry: 2001-09-07
 - Historical entry: 2001-09-08
 - Historical entry: 2001-09-09
+- Historical entry: 2001-09-10
