@@ -1299,3 +1299,4 @@
 - Historical entry: 2003-07-16
 - Historical entry: 2003-07-17
 - Historical entry: 2003-07-18
+- Historical entry: 2003-07-19
