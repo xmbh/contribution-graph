@@ -120,3 +120,4 @@
 - Historical entry: 2000-04-23
 - Historical entry: 2000-04-24
 - Historical entry: 2000-04-25
+- Historical entry: 2000-04-26
