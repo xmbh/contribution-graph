@@ -1250,3 +1250,4 @@
 - Historical entry: 2003-05-28
 - Historical entry: 2003-05-29
 - Historical entry: 2003-05-30
+- Historical entry: 2003-05-31
