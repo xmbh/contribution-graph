@@ -335,3 +335,4 @@
 - Historical entry: 2000-11-24
 - Historical entry: 2000-11-25
 - Historical entry: 2000-11-26
+- Historical entry: 2000-11-27
