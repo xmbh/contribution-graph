@@ -1065,3 +1065,4 @@
 - Historical entry: 2002-11-24
 - Historical entry: 2002-11-25
 - Historical entry: 2002-11-26
+- Historical entry: 2002-11-27
