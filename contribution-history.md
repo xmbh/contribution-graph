@@ -1689,3 +1689,4 @@
 - Historical entry: 2004-08-09
 - Historical entry: 2004-08-10
 - Historical entry: 2004-08-11
+- Historical entry: 2004-08-12
