@@ -777,3 +777,4 @@
 - Historical entry: 2002-02-09
 - Historical entry: 2002-02-10
 - Historical entry: 2002-02-11
+- Historical entry: 2002-02-12
