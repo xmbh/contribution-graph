@@ -1178,3 +1178,4 @@
 - Historical entry: 2003-03-17
 - Historical entry: 2003-03-18
 - Historical entry: 2003-03-19
+- Historical entry: 2003-03-20
