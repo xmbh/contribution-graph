@@ -955,3 +955,4 @@
 - Historical entry: 2002-08-06
 - Historical entry: 2002-08-07
 - Historical entry: 2002-08-08
+- Historical entry: 2002-08-09
