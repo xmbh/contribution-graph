@@ -332,3 +332,4 @@
 - Historical entry: 2000-11-21
 - Historical entry: 2000-11-22
 - Historical entry: 2000-11-23
+- Historical entry: 2000-11-24
