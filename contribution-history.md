@@ -1509,3 +1509,4 @@
 - Historical entry: 2004-02-11
 - Historical entry: 2004-02-12
 - Historical entry: 2004-02-13
+- Historical entry: 2004-02-14
