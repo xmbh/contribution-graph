@@ -537,3 +537,4 @@
 - Historical entry: 2001-06-14
 - Historical entry: 2001-06-15
 - Historical entry: 2001-06-16
+- Historical entry: 2001-06-17
