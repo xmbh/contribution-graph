@@ -1715,3 +1715,4 @@
 - Historical entry: 2004-09-04
 - Historical entry: 2004-09-05
 - Historical entry: 2004-09-06
+- Historical entry: 2004-09-07
