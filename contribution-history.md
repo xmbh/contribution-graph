@@ -606,3 +606,4 @@
 - Historical entry: 2001-08-22
 - Historical entry: 2001-08-23
 - Historical entry: 2001-08-24
+- Historical entry: 2001-08-25
