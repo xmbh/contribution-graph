@@ -1807,3 +1807,4 @@
 - Historical entry: 2004-12-05
 - Historical entry: 2004-12-06
 - Historical entry: 2004-12-07
+- Historical entry: 2004-12-08
