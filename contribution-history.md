@@ -1392,3 +1392,4 @@
 - Historical entry: 2003-10-17
 - Historical entry: 2003-10-18
 - Historical entry: 2003-10-19
+- Historical entry: 2003-10-20
