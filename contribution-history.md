@@ -1063,3 +1063,4 @@
 - Historical entry: 2002-11-22
 - Historical entry: 2002-11-23
 - Historical entry: 2002-11-24
+- Historical entry: 2002-11-25
