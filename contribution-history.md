@@ -1526,3 +1526,4 @@
 - Historical entry: 2004-02-28
 - Historical entry: 2004-02-29
 - Historical entry: 2004-03-01
+- Historical entry: 2004-03-02
