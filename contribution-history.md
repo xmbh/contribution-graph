@@ -393,3 +393,4 @@
 - Historical entry: 2001-01-21
 - Historical entry: 2001-01-22
 - Historical entry: 2001-01-23
+- Historical entry: 2001-01-24
