@@ -861,3 +861,4 @@
 - Historical entry: 2002-05-04
 - Historical entry: 2002-05-05
 - Historical entry: 2002-05-06
+- Historical entry: 2002-05-07
