@@ -269,3 +269,4 @@
 - Historical entry: 2000-09-19
 - Historical entry: 2000-09-20
 - Historical entry: 2000-09-21
+- Historical entry: 2000-09-22
