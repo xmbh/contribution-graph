@@ -1441,3 +1441,4 @@
 - Historical entry: 2003-12-05
 - Historical entry: 2003-12-06
 - Historical entry: 2003-12-07
+- Historical entry: 2003-12-08
