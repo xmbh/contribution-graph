@@ -891,3 +891,4 @@
 - Historical entry: 2002-06-03
 - Historical entry: 2002-06-04
 - Historical entry: 2002-06-05
+- Historical entry: 2002-06-06
