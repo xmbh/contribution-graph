@@ -127,3 +127,4 @@
 - Historical entry: 2000-04-30
 - Historical entry: 2000-05-01
 - Historical entry: 2000-05-02
+- Historical entry: 2000-05-03
