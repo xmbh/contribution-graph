@@ -138,3 +138,4 @@
 - Historical entry: 2000-05-11
 - Historical entry: 2000-05-12
 - Historical entry: 2000-05-13
+- Historical entry: 2000-05-14
