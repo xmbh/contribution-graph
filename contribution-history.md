@@ -15,3 +15,4 @@
 - Historical entry: 2000-01-09
 - Historical entry: 2000-01-10
 - Historical entry: 2000-01-11
+- Historical entry: 2000-01-12
