@@ -1419,3 +1419,4 @@
 - Historical entry: 2003-11-13
 - Historical entry: 2003-11-14
 - Historical entry: 2003-11-15
+- Historical entry: 2003-11-16
