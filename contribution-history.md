@@ -1027,3 +1027,4 @@
 - Historical entry: 2002-10-17
 - Historical entry: 2002-10-18
 - Historical entry: 2002-10-19
+- Historical entry: 2002-10-20
