@@ -551,3 +551,4 @@
 - Historical entry: 2001-06-28
 - Historical entry: 2001-06-29
 - Historical entry: 2001-06-30
+- Historical entry: 2001-07-01
