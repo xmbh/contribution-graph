@@ -186,3 +186,4 @@
 - Historical entry: 2000-06-28
 - Historical entry: 2000-06-29
 - Historical entry: 2000-06-30
+- Historical entry: 2000-07-01
