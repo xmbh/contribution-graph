@@ -539,3 +539,4 @@
 - Historical entry: 2001-06-16
 - Historical entry: 2001-06-17
 - Historical entry: 2001-06-18
+- Historical entry: 2001-06-19
