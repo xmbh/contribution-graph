@@ -643,3 +643,4 @@
 - Historical entry: 2001-09-28
 - Historical entry: 2001-09-29
 - Historical entry: 2001-09-30
+- Historical entry: 2001-10-01
