@@ -559,3 +559,4 @@
 - Historical entry: 2001-07-06
 - Historical entry: 2001-07-07
 - Historical entry: 2001-07-08
+- Historical entry: 2001-07-09
