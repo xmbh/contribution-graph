@@ -553,3 +553,4 @@
 - Historical entry: 2001-06-30
 - Historical entry: 2001-07-01
 - Historical entry: 2001-07-02
+- Historical entry: 2001-07-03
