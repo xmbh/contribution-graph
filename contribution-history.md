@@ -130,3 +130,4 @@
 - Historical entry: 2000-05-03
 - Historical entry: 2000-05-04
 - Historical entry: 2000-05-05
+- Historical entry: 2000-05-06
