@@ -978,3 +978,4 @@
 - Historical entry: 2002-08-29
 - Historical entry: 2002-08-30
 - Historical entry: 2002-08-31
+- Historical entry: 2002-09-01
