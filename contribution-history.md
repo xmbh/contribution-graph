@@ -1703,3 +1703,4 @@
 - Historical entry: 2004-08-23
 - Historical entry: 2004-08-24
 - Historical entry: 2004-08-25
+- Historical entry: 2004-08-26
