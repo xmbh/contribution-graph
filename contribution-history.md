@@ -388,3 +388,4 @@
 - Historical entry: 2001-01-16
 - Historical entry: 2001-01-17
 - Historical entry: 2001-01-18
+- Historical entry: 2001-01-19
