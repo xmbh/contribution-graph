@@ -1052,3 +1052,4 @@
 - Historical entry: 2002-11-11
 - Historical entry: 2002-11-12
 - Historical entry: 2002-11-13
+- Historical entry: 2002-11-14
