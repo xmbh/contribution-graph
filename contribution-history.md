@@ -977,3 +977,4 @@
 - Historical entry: 2002-08-28
 - Historical entry: 2002-08-29
 - Historical entry: 2002-08-30
+- Historical entry: 2002-08-31
