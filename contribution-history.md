@@ -589,3 +589,4 @@
 - Historical entry: 2001-08-05
 - Historical entry: 2001-08-06
 - Historical entry: 2001-08-07
+- Historical entry: 2001-08-08
