@@ -50,3 +50,4 @@
 - Historical entry: 2000-02-13
 - Historical entry: 2000-02-14
 - Historical entry: 2000-02-15
+- Historical entry: 2000-02-16
