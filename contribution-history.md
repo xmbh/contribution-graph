@@ -753,3 +753,4 @@
 - Historical entry: 2002-01-16
 - Historical entry: 2002-01-17
 - Historical entry: 2002-01-18
+- Historical entry: 2002-01-19
