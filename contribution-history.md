@@ -1610,3 +1610,4 @@
 - Historical entry: 2004-05-22
 - Historical entry: 2004-05-23
 - Historical entry: 2004-05-24
+- Historical entry: 2004-05-25
