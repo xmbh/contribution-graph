@@ -870,3 +870,4 @@
 - Historical entry: 2002-05-13
 - Historical entry: 2002-05-14
 - Historical entry: 2002-05-15
+- Historical entry: 2002-05-16
