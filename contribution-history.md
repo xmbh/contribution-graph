@@ -1011,3 +1011,4 @@
 - Historical entry: 2002-10-01
 - Historical entry: 2002-10-02
 - Historical entry: 2002-10-03
+- Historical entry: 2002-10-04
