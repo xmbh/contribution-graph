@@ -750,3 +750,4 @@
 - Historical entry: 2002-01-13
 - Historical entry: 2002-01-14
 - Historical entry: 2002-01-15
+- Historical entry: 2002-01-16
