@@ -195,3 +195,4 @@
 - Historical entry: 2000-07-07
 - Historical entry: 2000-07-08
 - Historical entry: 2000-07-09
+- Historical entry: 2000-07-10
