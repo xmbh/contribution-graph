@@ -614,3 +614,4 @@
 - Historical entry: 2001-08-30
 - Historical entry: 2001-08-31
 - Historical entry: 2001-09-01
+- Historical entry: 2001-09-02
