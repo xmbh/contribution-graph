@@ -85,3 +85,4 @@
 - Historical entry: 2000-03-19
 - Historical entry: 2000-03-20
 - Historical entry: 2000-03-21
+- Historical entry: 2000-03-22
