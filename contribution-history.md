@@ -696,3 +696,4 @@
 - Historical entry: 2001-11-20
 - Historical entry: 2001-11-21
 - Historical entry: 2001-11-22
+- Historical entry: 2001-11-23
