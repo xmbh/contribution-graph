@@ -1373,3 +1373,4 @@
 - Historical entry: 2003-09-28
 - Historical entry: 2003-09-29
 - Historical entry: 2003-09-30
+- Historical entry: 2003-10-01
