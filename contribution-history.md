@@ -47,3 +47,4 @@
 - Historical entry: 2000-02-10
 - Historical entry: 2000-02-11
 - Historical entry: 2000-02-12
+- Historical entry: 2000-02-13
