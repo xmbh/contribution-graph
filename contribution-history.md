@@ -1427,3 +1427,4 @@
 - Historical entry: 2003-11-21
 - Historical entry: 2003-11-22
 - Historical entry: 2003-11-23
+- Historical entry: 2003-11-24
