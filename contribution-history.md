@@ -1504,3 +1504,4 @@
 - Historical entry: 2004-02-06
 - Historical entry: 2004-02-07
 - Historical entry: 2004-02-08
+- Historical entry: 2004-02-09
