@@ -356,3 +356,4 @@
 - Historical entry: 2000-12-15
 - Historical entry: 2000-12-16
 - Historical entry: 2000-12-17
+- Historical entry: 2000-12-18
