@@ -21,3 +21,4 @@
 - Historical entry: 2000-01-15
 - Historical entry: 2000-01-16
 - Historical entry: 2000-01-17
+- Historical entry: 2000-01-18
