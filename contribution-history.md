@@ -570,3 +570,4 @@
 - Historical entry: 2001-07-17
 - Historical entry: 2001-07-18
 - Historical entry: 2001-07-19
+- Historical entry: 2001-07-20
