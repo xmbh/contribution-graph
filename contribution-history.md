@@ -492,3 +492,4 @@
 - Historical entry: 2001-04-30
 - Historical entry: 2001-05-01
 - Historical entry: 2001-05-02
+- Historical entry: 2001-05-03
