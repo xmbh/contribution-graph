@@ -423,3 +423,4 @@
 - Historical entry: 2001-02-20
 - Historical entry: 2001-02-21
 - Historical entry: 2001-02-22
+- Historical entry: 2001-02-23
