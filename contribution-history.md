@@ -964,3 +964,4 @@
 - Historical entry: 2002-08-15
 - Historical entry: 2002-08-16
 - Historical entry: 2002-08-17
+- Historical entry: 2002-08-18
