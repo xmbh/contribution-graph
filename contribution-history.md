@@ -878,3 +878,4 @@
 - Historical entry: 2002-05-21
 - Historical entry: 2002-05-22
 - Historical entry: 2002-05-23
+- Historical entry: 2002-05-24
