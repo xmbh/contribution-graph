@@ -300,3 +300,4 @@
 - Historical entry: 2000-10-20
 - Historical entry: 2000-10-21
 - Historical entry: 2000-10-22
+- Historical entry: 2000-10-23
