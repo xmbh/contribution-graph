@@ -783,3 +783,4 @@
 - Historical entry: 2002-02-15
 - Historical entry: 2002-02-16
 - Historical entry: 2002-02-17
+- Historical entry: 2002-02-18
