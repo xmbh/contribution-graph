@@ -62,3 +62,4 @@
 - Historical entry: 2000-02-25
 - Historical entry: 2000-02-26
 - Historical entry: 2000-02-27
+- Historical entry: 2000-02-28
