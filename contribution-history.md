@@ -1262,3 +1262,4 @@
 - Historical entry: 2003-06-09
 - Historical entry: 2003-06-10
 - Historical entry: 2003-06-11
+- Historical entry: 2003-06-12
