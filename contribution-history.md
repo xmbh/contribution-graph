@@ -1318,3 +1318,4 @@
 - Historical entry: 2003-08-04
 - Historical entry: 2003-08-05
 - Historical entry: 2003-08-06
+- Historical entry: 2003-08-07
