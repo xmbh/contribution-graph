@@ -295,3 +295,4 @@
 - Historical entry: 2000-10-15
 - Historical entry: 2000-10-16
 - Historical entry: 2000-10-17
+- Historical entry: 2000-10-18
