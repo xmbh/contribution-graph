@@ -1705,3 +1705,4 @@
 - Historical entry: 2004-08-25
 - Historical entry: 2004-08-26
 - Historical entry: 2004-08-27
+- Historical entry: 2004-08-28
