@@ -111,3 +111,4 @@
 - Historical entry: 2000-04-14
 - Historical entry: 2000-04-15
 - Historical entry: 2000-04-16
+- Historical entry: 2000-04-17
