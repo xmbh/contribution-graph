@@ -78,3 +78,4 @@
 - Historical entry: 2000-03-12
 - Historical entry: 2000-03-13
 - Historical entry: 2000-03-14
+- Historical entry: 2000-03-15
