@@ -1604,3 +1604,4 @@
 - Historical entry: 2004-05-16
 - Historical entry: 2004-05-17
 - Historical entry: 2004-05-18
+- Historical entry: 2004-05-19
