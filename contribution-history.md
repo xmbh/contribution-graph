@@ -969,3 +969,4 @@
 - Historical entry: 2002-08-20
 - Historical entry: 2002-08-21
 - Historical entry: 2002-08-22
+- Historical entry: 2002-08-23
