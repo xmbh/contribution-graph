@@ -1090,3 +1090,4 @@
 - Historical entry: 2002-12-19
 - Historical entry: 2002-12-20
 - Historical entry: 2002-12-21
+- Historical entry: 2002-12-22
