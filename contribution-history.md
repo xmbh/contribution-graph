@@ -414,3 +414,4 @@
 - Historical entry: 2001-02-11
 - Historical entry: 2001-02-12
 - Historical entry: 2001-02-13
+- Historical entry: 2001-02-14
