@@ -1435,3 +1435,4 @@
 - Historical entry: 2003-11-29
 - Historical entry: 2003-11-30
 - Historical entry: 2003-12-01
+- Historical entry: 2003-12-02
