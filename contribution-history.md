@@ -1089,3 +1089,4 @@
 - Historical entry: 2002-12-18
 - Historical entry: 2002-12-19
 - Historical entry: 2002-12-20
+- Historical entry: 2002-12-21
