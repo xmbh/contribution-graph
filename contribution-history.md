@@ -373,3 +373,4 @@
 - Historical entry: 2001-01-01
 - Historical entry: 2001-01-02
 - Historical entry: 2001-01-03
+- Historical entry: 2001-01-04
