@@ -53,3 +53,4 @@
 - Historical entry: 2000-02-16
 - Historical entry: 2000-02-17
 - Historical entry: 2000-02-18
+- Historical entry: 2000-02-19
