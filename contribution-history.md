@@ -1825,3 +1825,4 @@
 - Historical entry: 2004-12-23
 - Historical entry: 2004-12-24
 - Historical entry: 2004-12-25
+- Historical entry: 2004-12-26
