@@ -1630,3 +1630,4 @@
 - Historical entry: 2004-06-11
 - Historical entry: 2004-06-12
 - Historical entry: 2004-06-13
+- Historical entry: 2004-06-14
