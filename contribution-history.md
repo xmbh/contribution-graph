@@ -251,3 +251,4 @@
 - Historical entry: 2000-09-01
 - Historical entry: 2000-09-02
 - Historical entry: 2000-09-03
+- Historical entry: 2000-09-04
