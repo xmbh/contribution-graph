@@ -1678,3 +1678,4 @@
 - Historical entry: 2004-07-29
 - Historical entry: 2004-07-30
 - Historical entry: 2004-07-31
+- Historical entry: 2004-08-01
