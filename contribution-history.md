@@ -29,3 +29,4 @@
 - Historical entry: 2000-01-23
 - Historical entry: 2000-01-24
 - Historical entry: 2000-01-25
+- Historical entry: 2000-01-26
