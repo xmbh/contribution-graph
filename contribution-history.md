@@ -320,3 +320,4 @@
 - Historical entry: 2000-11-09
 - Historical entry: 2000-11-10
 - Historical entry: 2000-11-11
+- Historical entry: 2000-11-12
