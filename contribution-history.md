@@ -915,3 +915,4 @@
 - Historical entry: 2002-06-27
 - Historical entry: 2002-06-28
 - Historical entry: 2002-06-29
+- Historical entry: 2002-06-30
