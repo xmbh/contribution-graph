@@ -1108,3 +1108,4 @@
 - Historical entry: 2003-01-06
 - Historical entry: 2003-01-07
 - Historical entry: 2003-01-08
+- Historical entry: 2003-01-09
