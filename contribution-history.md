@@ -10,3 +10,4 @@
 - Historical entry: 2000-01-04
 - Historical entry: 2000-01-05
 - Historical entry: 2000-01-06
+- Historical entry: 2000-01-07
