@@ -318,3 +318,4 @@
 - Historical entry: 2000-11-07
 - Historical entry: 2000-11-08
 - Historical entry: 2000-11-09
+- Historical entry: 2000-11-10
