@@ -1736,3 +1736,4 @@
 - Historical entry: 2004-09-25
 - Historical entry: 2004-09-26
 - Historical entry: 2004-09-27
+- Historical entry: 2004-09-28
