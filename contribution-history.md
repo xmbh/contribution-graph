@@ -1718,3 +1718,4 @@
 - Historical entry: 2004-09-07
 - Historical entry: 2004-09-08
 - Historical entry: 2004-09-09
+- Historical entry: 2004-09-10
