@@ -789,3 +789,4 @@
 - Historical entry: 2002-02-21
 - Historical entry: 2002-02-22
 - Historical entry: 2002-02-23
+- Historical entry: 2002-02-24
