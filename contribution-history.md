@@ -1710,3 +1710,4 @@
 - Historical entry: 2004-08-30
 - Historical entry: 2004-08-31
 - Historical entry: 2004-09-01
+- Historical entry: 2004-09-02
