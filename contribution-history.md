@@ -95,3 +95,4 @@
 - Historical entry: 2000-03-29
 - Historical entry: 2000-03-30
 - Historical entry: 2000-03-31
+- Historical entry: 2000-04-01
