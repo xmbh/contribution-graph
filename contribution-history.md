@@ -496,3 +496,4 @@
 - Historical entry: 2001-05-04
 - Historical entry: 2001-05-05
 - Historical entry: 2001-05-06
+- Historical entry: 2001-05-07
