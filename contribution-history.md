@@ -768,3 +768,4 @@
 - Historical entry: 2002-01-31
 - Historical entry: 2002-02-01
 - Historical entry: 2002-02-02
+- Historical entry: 2002-02-03
