@@ -907,3 +907,4 @@
 - Historical entry: 2002-06-19
 - Historical entry: 2002-06-20
 - Historical entry: 2002-06-21
+- Historical entry: 2002-06-22
