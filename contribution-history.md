@@ -1287,3 +1287,4 @@
 - Historical entry: 2003-07-04
 - Historical entry: 2003-07-05
 - Historical entry: 2003-07-06
+- Historical entry: 2003-07-07
