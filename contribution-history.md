@@ -543,3 +543,4 @@
 - Historical entry: 2001-06-20
 - Historical entry: 2001-06-21
 - Historical entry: 2001-06-22
+- Historical entry: 2001-06-23
