@@ -524,3 +524,4 @@
 - Historical entry: 2001-06-01
 - Historical entry: 2001-06-02
 - Historical entry: 2001-06-03
+- Historical entry: 2001-06-04
