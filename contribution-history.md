@@ -1771,3 +1771,4 @@
 - Historical entry: 2004-10-30
 - Historical entry: 2004-10-31
 - Historical entry: 2004-11-01
+- Historical entry: 2004-11-02
