@@ -1499,3 +1499,4 @@
 - Historical entry: 2004-02-01
 - Historical entry: 2004-02-02
 - Historical entry: 2004-02-03
+- Historical entry: 2004-02-04
