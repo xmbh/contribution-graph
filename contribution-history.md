@@ -1119,3 +1119,4 @@
 - Historical entry: 2003-01-17
 - Historical entry: 2003-01-18
 - Historical entry: 2003-01-19
+- Historical entry: 2003-01-20
