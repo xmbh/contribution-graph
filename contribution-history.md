@@ -1922,3 +1922,4 @@
 - Historical entry: 2005-03-30
 - Historical entry: 2005-03-31
 - Historical entry: 2005-04-01
+- Historical entry: 2005-04-02
