@@ -899,3 +899,4 @@
 - Historical entry: 2002-06-11
 - Historical entry: 2002-06-12
 - Historical entry: 2002-06-13
+- Historical entry: 2002-06-14
