@@ -208,3 +208,4 @@
 - Historical entry: 2000-07-20
 - Historical entry: 2000-07-21
 - Historical entry: 2000-07-22
+- Historical entry: 2000-07-23
