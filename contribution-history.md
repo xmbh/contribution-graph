@@ -805,3 +805,4 @@
 - Historical entry: 2002-03-09
 - Historical entry: 2002-03-10
 - Historical entry: 2002-03-11
+- Historical entry: 2002-03-12
