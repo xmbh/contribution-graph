@@ -399,3 +399,4 @@
 - Historical entry: 2001-01-27
 - Historical entry: 2001-01-28
 - Historical entry: 2001-01-29
+- Historical entry: 2001-01-30
