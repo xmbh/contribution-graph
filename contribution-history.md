@@ -1298,3 +1298,4 @@
 - Historical entry: 2003-07-15
 - Historical entry: 2003-07-16
 - Historical entry: 2003-07-17
+- Historical entry: 2003-07-18
