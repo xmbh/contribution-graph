@@ -1225,3 +1225,4 @@
 - Historical entry: 2003-05-03
 - Historical entry: 2003-05-04
 - Historical entry: 2003-05-05
+- Historical entry: 2003-05-06
