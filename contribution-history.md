@@ -173,3 +173,4 @@
 - Historical entry: 2000-06-15
 - Historical entry: 2000-06-16
 - Historical entry: 2000-06-17
+- Historical entry: 2000-06-18
