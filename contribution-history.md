@@ -386,3 +386,4 @@
 - Historical entry: 2001-01-14
 - Historical entry: 2001-01-15
 - Historical entry: 2001-01-16
+- Historical entry: 2001-01-17
