@@ -1369,3 +1369,4 @@
 - Historical entry: 2003-09-24
 - Historical entry: 2003-09-25
 - Historical entry: 2003-09-26
+- Historical entry: 2003-09-27
