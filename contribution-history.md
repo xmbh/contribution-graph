@@ -723,3 +723,4 @@
 - Historical entry: 2001-12-17
 - Historical entry: 2001-12-18
 - Historical entry: 2001-12-19
+- Historical entry: 2001-12-20
