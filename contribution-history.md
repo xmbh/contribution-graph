@@ -36,3 +36,4 @@
 - Historical entry: 2000-01-30
 - Historical entry: 2000-01-31
 - Historical entry: 2000-02-01
+- Historical entry: 2000-02-02
