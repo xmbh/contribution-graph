@@ -141,3 +141,4 @@
 - Historical entry: 2000-05-14
 - Historical entry: 2000-05-15
 - Historical entry: 2000-05-16
+- Historical entry: 2000-05-17
