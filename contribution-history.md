@@ -1518,3 +1518,4 @@
 - Historical entry: 2004-02-20
 - Historical entry: 2004-02-21
 - Historical entry: 2004-02-22
+- Historical entry: 2004-02-23
