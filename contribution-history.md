@@ -925,3 +925,4 @@
 - Historical entry: 2002-07-07
 - Historical entry: 2002-07-08
 - Historical entry: 2002-07-09
+- Historical entry: 2002-07-10
