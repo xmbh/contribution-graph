@@ -179,3 +179,4 @@
 - Historical entry: 2000-06-21
 - Historical entry: 2000-06-22
 - Historical entry: 2000-06-23
+- Historical entry: 2000-06-24
