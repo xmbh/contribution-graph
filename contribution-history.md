@@ -1925,3 +1925,4 @@
 - Historical entry: 2005-04-02
 - Historical entry: 2005-04-03
 - Historical entry: 2005-04-04
+- Historical entry: 2005-04-05
