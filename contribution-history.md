@@ -1260,3 +1260,4 @@
 - Historical entry: 2003-06-07
 - Historical entry: 2003-06-08
 - Historical entry: 2003-06-09
+- Historical entry: 2003-06-10
