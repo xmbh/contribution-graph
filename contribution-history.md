@@ -950,3 +950,4 @@
 - Historical entry: 2002-08-01
 - Historical entry: 2002-08-02
 - Historical entry: 2002-08-03
+- Historical entry: 2002-08-04
