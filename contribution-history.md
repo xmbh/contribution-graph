@@ -1123,3 +1123,4 @@
 - Historical entry: 2003-01-21
 - Historical entry: 2003-01-22
 - Historical entry: 2003-01-23
+- Historical entry: 2003-01-24
