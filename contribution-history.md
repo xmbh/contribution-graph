@@ -833,3 +833,4 @@
 - Historical entry: 2002-04-06
 - Historical entry: 2002-04-07
 - Historical entry: 2002-04-08
+- Historical entry: 2002-04-09
