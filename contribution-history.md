@@ -948,3 +948,4 @@
 - Historical entry: 2002-07-30
 - Historical entry: 2002-07-31
 - Historical entry: 2002-08-01
+- Historical entry: 2002-08-02
