@@ -1628,3 +1628,4 @@
 - Historical entry: 2004-06-09
 - Historical entry: 2004-06-10
 - Historical entry: 2004-06-11
+- Historical entry: 2004-06-12
