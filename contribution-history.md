@@ -858,3 +858,4 @@
 - Historical entry: 2002-05-01
 - Historical entry: 2002-05-02
 - Historical entry: 2002-05-03
+- Historical entry: 2002-05-04
