@@ -801,3 +801,4 @@
 - Historical entry: 2002-03-05
 - Historical entry: 2002-03-06
 - Historical entry: 2002-03-07
+- Historical entry: 2002-03-08
