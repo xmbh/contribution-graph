@@ -350,3 +350,4 @@
 - Historical entry: 2000-12-09
 - Historical entry: 2000-12-10
 - Historical entry: 2000-12-11
+- Historical entry: 2000-12-12
