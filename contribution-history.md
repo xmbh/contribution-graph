@@ -918,3 +918,4 @@
 - Historical entry: 2002-06-30
 - Historical entry: 2002-07-01
 - Historical entry: 2002-07-02
+- Historical entry: 2002-07-03
