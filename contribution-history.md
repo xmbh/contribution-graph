@@ -1099,3 +1099,4 @@
 - Historical entry: 2002-12-28
 - Historical entry: 2002-12-29
 - Historical entry: 2002-12-30
+- Historical entry: 2002-12-31
