@@ -1618,3 +1618,4 @@
 - Historical entry: 2004-05-30
 - Historical entry: 2004-05-31
 - Historical entry: 2004-06-01
+- Historical entry: 2004-06-02
