@@ -309,3 +309,4 @@
 - Historical entry: 2000-10-29
 - Historical entry: 2000-10-30
 - Historical entry: 2000-10-31
+- Historical entry: 2000-11-01
