@@ -650,3 +650,4 @@
 - Historical entry: 2001-10-05
 - Historical entry: 2001-10-06
 - Historical entry: 2001-10-07
+- Historical entry: 2001-10-08
