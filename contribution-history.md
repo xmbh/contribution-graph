@@ -1870,3 +1870,4 @@
 - Historical entry: 2005-02-06
 - Historical entry: 2005-02-07
 - Historical entry: 2005-02-08
+- Historical entry: 2005-02-09
