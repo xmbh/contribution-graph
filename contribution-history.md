@@ -1000,3 +1000,4 @@
 - Historical entry: 2002-09-20
 - Historical entry: 2002-09-21
 - Historical entry: 2002-09-22
+- Historical entry: 2002-09-23
