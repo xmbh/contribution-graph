@@ -203,3 +203,4 @@
 - Historical entry: 2000-07-15
 - Historical entry: 2000-07-16
 - Historical entry: 2000-07-17
+- Historical entry: 2000-07-18
