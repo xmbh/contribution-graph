@@ -1239,3 +1239,4 @@
 - Historical entry: 2003-05-17
 - Historical entry: 2003-05-18
 - Historical entry: 2003-05-19
+- Historical entry: 2003-05-20
