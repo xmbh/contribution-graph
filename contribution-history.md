@@ -339,3 +339,4 @@
 - Historical entry: 2000-11-28
 - Historical entry: 2000-11-29
 - Historical entry: 2000-11-30
+- Historical entry: 2000-12-01
