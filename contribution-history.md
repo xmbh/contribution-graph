@@ -1892,3 +1892,4 @@
 - Historical entry: 2005-02-28
 - Historical entry: 2005-03-01
 - Historical entry: 2005-03-02
+- Historical entry: 2005-03-03
