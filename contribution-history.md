@@ -106,3 +106,4 @@
 - Historical entry: 2000-04-09
 - Historical entry: 2000-04-10
 - Historical entry: 2000-04-11
+- Historical entry: 2000-04-12
