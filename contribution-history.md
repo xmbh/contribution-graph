@@ -368,3 +368,4 @@
 - Historical entry: 2000-12-27
 - Historical entry: 2000-12-28
 - Historical entry: 2000-12-29
+- Historical entry: 2000-12-30
