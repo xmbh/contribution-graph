@@ -796,3 +796,4 @@
 - Historical entry: 2002-02-28
 - Historical entry: 2002-03-01
 - Historical entry: 2002-03-02
+- Historical entry: 2002-03-03
