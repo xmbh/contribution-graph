@@ -98,3 +98,4 @@
 - Historical entry: 2000-04-01
 - Historical entry: 2000-04-02
 - Historical entry: 2000-04-03
+- Historical entry: 2000-04-04
