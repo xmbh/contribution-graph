@@ -1863,3 +1863,4 @@
 - Historical entry: 2005-01-30
 - Historical entry: 2005-01-31
 - Historical entry: 2005-02-01
+- Historical entry: 2005-02-02
