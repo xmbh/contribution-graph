@@ -1615,3 +1615,4 @@
 - Historical entry: 2004-05-27
 - Historical entry: 2004-05-28
 - Historical entry: 2004-05-29
+- Historical entry: 2004-05-30
