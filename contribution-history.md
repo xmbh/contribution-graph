@@ -383,3 +383,4 @@
 - Historical entry: 2001-01-11
 - Historical entry: 2001-01-12
 - Historical entry: 2001-01-13
+- Historical entry: 2001-01-14
