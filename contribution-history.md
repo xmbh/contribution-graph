@@ -1560,3 +1560,4 @@
 - Historical entry: 2004-04-02
 - Historical entry: 2004-04-03
 - Historical entry: 2004-04-04
+- Historical entry: 2004-04-05
