@@ -648,3 +648,4 @@
 - Historical entry: 2001-10-03
 - Historical entry: 2001-10-04
 - Historical entry: 2001-10-05
+- Historical entry: 2001-10-06
