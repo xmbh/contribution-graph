@@ -343,3 +343,4 @@
 - Historical entry: 2000-12-02
 - Historical entry: 2000-12-03
 - Historical entry: 2000-12-04
+- Historical entry: 2000-12-05
