@@ -1095,3 +1095,4 @@
 - Historical entry: 2002-12-24
 - Historical entry: 2002-12-25
 - Historical entry: 2002-12-26
+- Historical entry: 2002-12-27
