@@ -279,3 +279,4 @@
 - Historical entry: 2000-09-29
 - Historical entry: 2000-09-30
 - Historical entry: 2000-10-01
+- Historical entry: 2000-10-02
