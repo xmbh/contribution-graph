@@ -345,3 +345,4 @@
 - Historical entry: 2000-12-04
 - Historical entry: 2000-12-05
 - Historical entry: 2000-12-06
+- Historical entry: 2000-12-07
