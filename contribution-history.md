@@ -1670,3 +1670,4 @@
 - Historical entry: 2004-07-21
 - Historical entry: 2004-07-22
 - Historical entry: 2004-07-23
+- Historical entry: 2004-07-24
