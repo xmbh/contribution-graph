@@ -99,3 +99,4 @@
 - Historical entry: 2000-04-02
 - Historical entry: 2000-04-03
 - Historical entry: 2000-04-04
+- Historical entry: 2000-04-05
