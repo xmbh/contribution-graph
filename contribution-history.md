@@ -874,3 +874,4 @@
 - Historical entry: 2002-05-17
 - Historical entry: 2002-05-18
 - Historical entry: 2002-05-19
+- Historical entry: 2002-05-20
