@@ -1350,3 +1350,4 @@
 - Historical entry: 2003-09-05
 - Historical entry: 2003-09-06
 - Historical entry: 2003-09-07
+- Historical entry: 2003-09-08
