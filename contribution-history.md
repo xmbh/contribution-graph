@@ -1101,3 +1101,4 @@
 - Historical entry: 2002-12-30
 - Historical entry: 2002-12-31
 - Historical entry: 2003-01-01
+- Historical entry: 2003-01-02
