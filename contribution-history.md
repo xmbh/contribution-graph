@@ -1073,3 +1073,4 @@
 - Historical entry: 2002-12-02
 - Historical entry: 2002-12-03
 - Historical entry: 2002-12-04
+- Historical entry: 2002-12-05
