@@ -781,3 +781,4 @@
 - Historical entry: 2002-02-13
 - Historical entry: 2002-02-14
 - Historical entry: 2002-02-15
+- Historical entry: 2002-02-16
