@@ -707,3 +707,4 @@
 - Historical entry: 2001-12-01
 - Historical entry: 2001-12-02
 - Historical entry: 2001-12-03
+- Historical entry: 2001-12-04
