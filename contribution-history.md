@@ -608,3 +608,4 @@
 - Historical entry: 2001-08-24
 - Historical entry: 2001-08-25
 - Historical entry: 2001-08-26
+- Historical entry: 2001-08-27
