@@ -1695,3 +1695,4 @@
 - Historical entry: 2004-08-15
 - Historical entry: 2004-08-16
 - Historical entry: 2004-08-17
+- Historical entry: 2004-08-18
