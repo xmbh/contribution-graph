@@ -540,3 +540,4 @@
 - Historical entry: 2001-06-17
 - Historical entry: 2001-06-18
 - Historical entry: 2001-06-19
+- Historical entry: 2001-06-20
