@@ -1939,3 +1939,4 @@
 - Historical entry: 2005-04-16
 - Historical entry: 2005-04-17
 - Historical entry: 2005-04-18
+- Historical entry: 2005-04-19
