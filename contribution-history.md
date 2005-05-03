@@ -1953,3 +1953,4 @@
 - Historical entry: 2005-04-30
 - Historical entry: 2005-05-01
 - Historical entry: 2005-05-02
+- Historical entry: 2005-05-03
