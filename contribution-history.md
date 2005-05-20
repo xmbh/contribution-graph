@@ -1970,3 +1970,4 @@
 - Historical entry: 2005-05-17
 - Historical entry: 2005-05-18
 - Historical entry: 2005-05-19
+- Historical entry: 2005-05-20
