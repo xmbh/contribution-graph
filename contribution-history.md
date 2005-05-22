@@ -1972,3 +1972,4 @@
 - Historical entry: 2005-05-19
 - Historical entry: 2005-05-20
 - Historical entry: 2005-05-21
+- Historical entry: 2005-05-22
