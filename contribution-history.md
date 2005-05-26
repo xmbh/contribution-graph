@@ -1976,3 +1976,4 @@
 - Historical entry: 2005-05-23
 - Historical entry: 2005-05-24
 - Historical entry: 2005-05-25
+- Historical entry: 2005-05-26
