@@ -1978,3 +1978,4 @@
 - Historical entry: 2005-05-25
 - Historical entry: 2005-05-26
 - Historical entry: 2005-05-27
+- Historical entry: 2005-05-28
