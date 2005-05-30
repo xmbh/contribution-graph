@@ -1980,3 +1980,4 @@
 - Historical entry: 2005-05-27
 - Historical entry: 2005-05-28
 - Historical entry: 2005-05-29
+- Historical entry: 2005-05-30
