@@ -1982,3 +1982,4 @@
 - Historical entry: 2005-05-29
 - Historical entry: 2005-05-30
 - Historical entry: 2005-05-31
+- Historical entry: 2005-06-01
