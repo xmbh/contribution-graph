@@ -1984,3 +1984,4 @@
 - Historical entry: 2005-05-31
 - Historical entry: 2005-06-01
 - Historical entry: 2005-06-02
+- Historical entry: 2005-06-03
