@@ -1988,3 +1988,4 @@
 - Historical entry: 2005-06-04
 - Historical entry: 2005-06-05
 - Historical entry: 2005-06-06
+- Historical entry: 2005-06-07
