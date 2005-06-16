@@ -1997,3 +1997,4 @@
 - Historical entry: 2005-06-13
 - Historical entry: 2005-06-14
 - Historical entry: 2005-06-15
+- Historical entry: 2005-06-16
