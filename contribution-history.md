@@ -2001,3 +2001,4 @@
 - Historical entry: 2005-06-17
 - Historical entry: 2005-06-18
 - Historical entry: 2005-06-19
+- Historical entry: 2005-06-20
