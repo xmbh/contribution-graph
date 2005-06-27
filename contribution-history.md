@@ -2008,3 +2008,4 @@
 - Historical entry: 2005-06-24
 - Historical entry: 2005-06-25
 - Historical entry: 2005-06-26
+- Historical entry: 2005-06-27
