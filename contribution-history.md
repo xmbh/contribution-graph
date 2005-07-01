@@ -2012,3 +2012,4 @@
 - Historical entry: 2005-06-28
 - Historical entry: 2005-06-29
 - Historical entry: 2005-06-30
+- Historical entry: 2005-07-01
