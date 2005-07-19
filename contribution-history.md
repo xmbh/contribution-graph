@@ -2030,3 +2030,4 @@
 - Historical entry: 2005-07-16
 - Historical entry: 2005-07-17
 - Historical entry: 2005-07-18
+- Historical entry: 2005-07-19
