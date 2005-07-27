@@ -2038,3 +2038,4 @@
 - Historical entry: 2005-07-24
 - Historical entry: 2005-07-25
 - Historical entry: 2005-07-26
+- Historical entry: 2005-07-27
