@@ -2065,3 +2065,4 @@
 - Historical entry: 2005-08-20
 - Historical entry: 2005-08-21
 - Historical entry: 2005-08-22
+- Historical entry: 2005-08-23
