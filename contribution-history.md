@@ -2078,3 +2078,4 @@
 - Historical entry: 2005-09-02
 - Historical entry: 2005-09-03
 - Historical entry: 2005-09-04
+- Historical entry: 2005-09-05
