@@ -2080,3 +2080,4 @@
 - Historical entry: 2005-09-04
 - Historical entry: 2005-09-05
 - Historical entry: 2005-09-06
+- Historical entry: 2005-09-07
