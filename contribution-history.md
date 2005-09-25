@@ -2098,3 +2098,4 @@
 - Historical entry: 2005-09-22
 - Historical entry: 2005-09-23
 - Historical entry: 2005-09-24
+- Historical entry: 2005-09-25
