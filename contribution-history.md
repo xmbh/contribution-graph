@@ -2104,3 +2104,4 @@
 - Historical entry: 2005-09-28
 - Historical entry: 2005-09-29
 - Historical entry: 2005-09-30
+- Historical entry: 2005-10-01
