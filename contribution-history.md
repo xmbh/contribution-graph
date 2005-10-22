@@ -2125,3 +2125,4 @@
 - Historical entry: 2005-10-19
 - Historical entry: 2005-10-20
 - Historical entry: 2005-10-21
+- Historical entry: 2005-10-22
