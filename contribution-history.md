@@ -2142,3 +2142,4 @@
 - Historical entry: 2005-11-05
 - Historical entry: 2005-11-06
 - Historical entry: 2005-11-07
+- Historical entry: 2005-11-08
