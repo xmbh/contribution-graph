@@ -2159,3 +2159,4 @@
 - Historical entry: 2005-11-22
 - Historical entry: 2005-11-23
 - Historical entry: 2005-11-24
+- Historical entry: 2005-11-25
