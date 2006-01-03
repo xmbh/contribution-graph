@@ -2198,3 +2198,4 @@
 - Historical entry: 2005-12-31
 - Historical entry: 2006-01-01
 - Historical entry: 2006-01-02
+- Historical entry: 2006-01-03
