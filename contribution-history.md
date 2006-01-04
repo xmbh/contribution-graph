@@ -2199,3 +2199,4 @@
 - Historical entry: 2006-01-01
 - Historical entry: 2006-01-02
 - Historical entry: 2006-01-03
+- Historical entry: 2006-01-04
