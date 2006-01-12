@@ -2207,3 +2207,4 @@
 - Historical entry: 2006-01-09
 - Historical entry: 2006-01-10
 - Historical entry: 2006-01-11
+- Historical entry: 2006-01-12
