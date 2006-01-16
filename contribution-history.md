@@ -2211,3 +2211,4 @@
 - Historical entry: 2006-01-13
 - Historical entry: 2006-01-14
 - Historical entry: 2006-01-15
+- Historical entry: 2006-01-16
