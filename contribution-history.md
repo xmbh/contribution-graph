@@ -2218,3 +2218,4 @@
 - Historical entry: 2006-01-20
 - Historical entry: 2006-01-21
 - Historical entry: 2006-01-22
+- Historical entry: 2006-01-23
