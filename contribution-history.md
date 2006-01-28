@@ -2223,3 +2223,4 @@
 - Historical entry: 2006-01-25
 - Historical entry: 2006-01-26
 - Historical entry: 2006-01-27
+- Historical entry: 2006-01-28
