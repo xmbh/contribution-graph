@@ -2255,3 +2255,4 @@
 - Historical entry: 2006-02-26
 - Historical entry: 2006-02-27
 - Historical entry: 2006-02-28
+- Historical entry: 2006-03-01
