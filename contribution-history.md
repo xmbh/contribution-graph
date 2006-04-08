@@ -2293,3 +2293,4 @@
 - Historical entry: 2006-04-05
 - Historical entry: 2006-04-06
 - Historical entry: 2006-04-07
+- Historical entry: 2006-04-08
