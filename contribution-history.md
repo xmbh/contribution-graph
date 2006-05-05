@@ -2320,3 +2320,4 @@
 - Historical entry: 2006-05-02
 - Historical entry: 2006-05-03
 - Historical entry: 2006-05-04
+- Historical entry: 2006-05-05
