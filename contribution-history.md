@@ -2345,3 +2345,4 @@
 - Historical entry: 2006-05-27
 - Historical entry: 2006-05-28
 - Historical entry: 2006-05-29
+- Historical entry: 2006-05-30
