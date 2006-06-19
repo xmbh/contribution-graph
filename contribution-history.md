@@ -2365,3 +2365,4 @@
 - Historical entry: 2006-06-16
 - Historical entry: 2006-06-17
 - Historical entry: 2006-06-18
+- Historical entry: 2006-06-19
