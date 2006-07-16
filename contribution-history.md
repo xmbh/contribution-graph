@@ -2392,3 +2392,4 @@
 - Historical entry: 2006-07-13
 - Historical entry: 2006-07-14
 - Historical entry: 2006-07-15
+- Historical entry: 2006-07-16
