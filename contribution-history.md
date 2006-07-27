@@ -2403,3 +2403,4 @@
 - Historical entry: 2006-07-24
 - Historical entry: 2006-07-25
 - Historical entry: 2006-07-26
+- Historical entry: 2006-07-27
