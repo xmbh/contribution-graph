@@ -2419,3 +2419,4 @@
 - Historical entry: 2006-08-09
 - Historical entry: 2006-08-10
 - Historical entry: 2006-08-11
+- Historical entry: 2006-08-12
