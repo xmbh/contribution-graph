@@ -2429,3 +2429,4 @@
 - Historical entry: 2006-08-19
 - Historical entry: 2006-08-20
 - Historical entry: 2006-08-21
+- Historical entry: 2006-08-22
