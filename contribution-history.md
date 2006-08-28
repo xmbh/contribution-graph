@@ -2435,3 +2435,4 @@
 - Historical entry: 2006-08-25
 - Historical entry: 2006-08-26
 - Historical entry: 2006-08-27
+- Historical entry: 2006-08-28
