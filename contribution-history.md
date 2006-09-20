@@ -2458,3 +2458,4 @@
 - Historical entry: 2006-09-17
 - Historical entry: 2006-09-18
 - Historical entry: 2006-09-19
+- Historical entry: 2006-09-20
