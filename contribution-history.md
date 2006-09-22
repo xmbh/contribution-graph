@@ -2460,3 +2460,4 @@
 - Historical entry: 2006-09-19
 - Historical entry: 2006-09-20
 - Historical entry: 2006-09-21
+- Historical entry: 2006-09-22
