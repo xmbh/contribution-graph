@@ -2465,3 +2465,4 @@
 - Historical entry: 2006-09-24
 - Historical entry: 2006-09-25
 - Historical entry: 2006-09-26
+- Historical entry: 2006-09-27
