@@ -2470,3 +2470,4 @@
 - Historical entry: 2006-09-29
 - Historical entry: 2006-09-30
 - Historical entry: 2006-10-01
+- Historical entry: 2006-10-02
