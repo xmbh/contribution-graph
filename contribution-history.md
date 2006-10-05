@@ -2473,3 +2473,4 @@
 - Historical entry: 2006-10-02
 - Historical entry: 2006-10-03
 - Historical entry: 2006-10-04
+- Historical entry: 2006-10-05
