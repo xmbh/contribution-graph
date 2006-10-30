@@ -2498,3 +2498,4 @@
 - Historical entry: 2006-10-27
 - Historical entry: 2006-10-28
 - Historical entry: 2006-10-29
+- Historical entry: 2006-10-30
