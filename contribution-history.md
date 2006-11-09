@@ -2508,3 +2508,4 @@
 - Historical entry: 2006-11-06
 - Historical entry: 2006-11-07
 - Historical entry: 2006-11-08
+- Historical entry: 2006-11-09
