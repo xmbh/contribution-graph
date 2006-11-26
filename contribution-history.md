@@ -2525,3 +2525,4 @@
 - Historical entry: 2006-11-23
 - Historical entry: 2006-11-24
 - Historical entry: 2006-11-25
+- Historical entry: 2006-11-26
