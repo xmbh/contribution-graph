@@ -2527,3 +2527,4 @@
 - Historical entry: 2006-11-25
 - Historical entry: 2006-11-26
 - Historical entry: 2006-11-27
+- Historical entry: 2006-11-28
