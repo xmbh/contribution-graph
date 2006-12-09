@@ -2538,3 +2538,4 @@
 - Historical entry: 2006-12-06
 - Historical entry: 2006-12-07
 - Historical entry: 2006-12-08
+- Historical entry: 2006-12-09
