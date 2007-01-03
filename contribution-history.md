@@ -2563,3 +2563,4 @@
 - Historical entry: 2006-12-31
 - Historical entry: 2007-01-01
 - Historical entry: 2007-01-02
+- Historical entry: 2007-01-03
