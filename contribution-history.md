@@ -2600,3 +2600,4 @@
 - Historical entry: 2007-02-06
 - Historical entry: 2007-02-07
 - Historical entry: 2007-02-08
+- Historical entry: 2007-02-09
