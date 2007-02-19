@@ -2610,3 +2610,4 @@
 - Historical entry: 2007-02-16
 - Historical entry: 2007-02-17
 - Historical entry: 2007-02-18
+- Historical entry: 2007-02-19
