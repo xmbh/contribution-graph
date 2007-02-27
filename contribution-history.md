@@ -2618,3 +2618,4 @@
 - Historical entry: 2007-02-24
 - Historical entry: 2007-02-25
 - Historical entry: 2007-02-26
+- Historical entry: 2007-02-27
