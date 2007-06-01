@@ -2712,3 +2712,4 @@
 - Historical entry: 2007-05-29
 - Historical entry: 2007-05-30
 - Historical entry: 2007-05-31
+- Historical entry: 2007-06-01
