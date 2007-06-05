@@ -2716,3 +2716,4 @@
 - Historical entry: 2007-06-02
 - Historical entry: 2007-06-03
 - Historical entry: 2007-06-04
+- Historical entry: 2007-06-05
