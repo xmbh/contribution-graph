@@ -2728,3 +2728,4 @@
 - Historical entry: 2007-06-14
 - Historical entry: 2007-06-15
 - Historical entry: 2007-06-16
+- Historical entry: 2007-06-17
