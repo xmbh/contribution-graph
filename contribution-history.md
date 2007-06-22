@@ -2733,3 +2733,4 @@
 - Historical entry: 2007-06-19
 - Historical entry: 2007-06-20
 - Historical entry: 2007-06-21
+- Historical entry: 2007-06-22
