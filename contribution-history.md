@@ -2739,3 +2739,4 @@
 - Historical entry: 2007-06-25
 - Historical entry: 2007-06-26
 - Historical entry: 2007-06-27
+- Historical entry: 2007-06-28
