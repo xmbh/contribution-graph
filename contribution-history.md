@@ -2748,3 +2748,4 @@
 - Historical entry: 2007-07-04
 - Historical entry: 2007-07-05
 - Historical entry: 2007-07-06
+- Historical entry: 2007-07-07
