@@ -2807,3 +2807,4 @@
 - Historical entry: 2007-09-01
 - Historical entry: 2007-09-02
 - Historical entry: 2007-09-03
+- Historical entry: 2007-09-04
