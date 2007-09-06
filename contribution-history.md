@@ -2809,3 +2809,4 @@
 - Historical entry: 2007-09-03
 - Historical entry: 2007-09-04
 - Historical entry: 2007-09-05
+- Historical entry: 2007-09-06
