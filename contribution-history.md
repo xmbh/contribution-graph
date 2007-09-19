@@ -2822,3 +2822,4 @@
 - Historical entry: 2007-09-16
 - Historical entry: 2007-09-17
 - Historical entry: 2007-09-18
+- Historical entry: 2007-09-19
