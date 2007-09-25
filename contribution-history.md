@@ -2828,3 +2828,4 @@
 - Historical entry: 2007-09-22
 - Historical entry: 2007-09-23
 - Historical entry: 2007-09-24
+- Historical entry: 2007-09-25
