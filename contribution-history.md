@@ -2837,3 +2837,4 @@
 - Historical entry: 2007-10-01
 - Historical entry: 2007-10-02
 - Historical entry: 2007-10-03
+- Historical entry: 2007-10-04
