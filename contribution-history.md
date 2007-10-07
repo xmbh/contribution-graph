@@ -2840,3 +2840,4 @@
 - Historical entry: 2007-10-04
 - Historical entry: 2007-10-05
 - Historical entry: 2007-10-06
+- Historical entry: 2007-10-07
