@@ -2852,3 +2852,4 @@
 - Historical entry: 2007-10-16
 - Historical entry: 2007-10-17
 - Historical entry: 2007-10-18
+- Historical entry: 2007-10-19
