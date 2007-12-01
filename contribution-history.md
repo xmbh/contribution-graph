@@ -2895,3 +2895,4 @@
 - Historical entry: 2007-11-28
 - Historical entry: 2007-11-29
 - Historical entry: 2007-11-30
+- Historical entry: 2007-12-01
