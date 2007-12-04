@@ -2898,3 +2898,4 @@
 - Historical entry: 2007-12-01
 - Historical entry: 2007-12-02
 - Historical entry: 2007-12-03
+- Historical entry: 2007-12-04
