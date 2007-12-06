@@ -2900,3 +2900,4 @@
 - Historical entry: 2007-12-03
 - Historical entry: 2007-12-04
 - Historical entry: 2007-12-05
+- Historical entry: 2007-12-06
