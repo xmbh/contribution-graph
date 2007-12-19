@@ -2913,3 +2913,4 @@
 - Historical entry: 2007-12-16
 - Historical entry: 2007-12-17
 - Historical entry: 2007-12-18
+- Historical entry: 2007-12-19
