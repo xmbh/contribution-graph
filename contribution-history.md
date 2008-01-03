@@ -2928,3 +2928,4 @@
 - Historical entry: 2007-12-31
 - Historical entry: 2008-01-01
 - Historical entry: 2008-01-02
+- Historical entry: 2008-01-03
