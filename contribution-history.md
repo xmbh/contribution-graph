@@ -2932,3 +2932,4 @@
 - Historical entry: 2008-01-04
 - Historical entry: 2008-01-05
 - Historical entry: 2008-01-06
+- Historical entry: 2008-01-07
