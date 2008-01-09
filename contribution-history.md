@@ -2934,3 +2934,4 @@
 - Historical entry: 2008-01-06
 - Historical entry: 2008-01-07
 - Historical entry: 2008-01-08
+- Historical entry: 2008-01-09
