@@ -3052,3 +3052,4 @@
 - Historical entry: 2008-05-03
 - Historical entry: 2008-05-04
 - Historical entry: 2008-05-05
+- Historical entry: 2008-05-06
