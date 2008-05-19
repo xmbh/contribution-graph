@@ -3065,3 +3065,4 @@
 - Historical entry: 2008-05-16
 - Historical entry: 2008-05-17
 - Historical entry: 2008-05-18
+- Historical entry: 2008-05-19
