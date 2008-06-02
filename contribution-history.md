@@ -3079,3 +3079,4 @@
 - Historical entry: 2008-05-30
 - Historical entry: 2008-05-31
 - Historical entry: 2008-06-01
+- Historical entry: 2008-06-02
