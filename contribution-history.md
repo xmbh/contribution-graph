@@ -3081,3 +3081,4 @@
 - Historical entry: 2008-06-01
 - Historical entry: 2008-06-02
 - Historical entry: 2008-06-03
+- Historical entry: 2008-06-04
