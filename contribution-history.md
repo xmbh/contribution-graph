@@ -3093,3 +3093,4 @@
 - Historical entry: 2008-06-13
 - Historical entry: 2008-06-14
 - Historical entry: 2008-06-15
+- Historical entry: 2008-06-16
