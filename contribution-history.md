@@ -3099,3 +3099,4 @@
 - Historical entry: 2008-06-19
 - Historical entry: 2008-06-20
 - Historical entry: 2008-06-21
+- Historical entry: 2008-06-22
