@@ -3101,3 +3101,4 @@
 - Historical entry: 2008-06-21
 - Historical entry: 2008-06-22
 - Historical entry: 2008-06-23
+- Historical entry: 2008-06-24
