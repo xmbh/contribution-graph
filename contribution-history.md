@@ -3109,3 +3109,4 @@
 - Historical entry: 2008-06-29
 - Historical entry: 2008-06-30
 - Historical entry: 2008-07-01
+- Historical entry: 2008-07-02
