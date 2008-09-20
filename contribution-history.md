@@ -3189,3 +3189,4 @@
 - Historical entry: 2008-09-17
 - Historical entry: 2008-09-18
 - Historical entry: 2008-09-19
+- Historical entry: 2008-09-20
