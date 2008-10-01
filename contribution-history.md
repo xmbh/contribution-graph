@@ -3200,3 +3200,4 @@
 - Historical entry: 2008-09-28
 - Historical entry: 2008-09-29
 - Historical entry: 2008-09-30
+- Historical entry: 2008-10-01
