@@ -3203,3 +3203,4 @@
 - Historical entry: 2008-10-01
 - Historical entry: 2008-10-02
 - Historical entry: 2008-10-03
+- Historical entry: 2008-10-04
