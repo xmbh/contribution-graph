@@ -3209,3 +3209,4 @@
 - Historical entry: 2008-10-07
 - Historical entry: 2008-10-08
 - Historical entry: 2008-10-09
+- Historical entry: 2008-10-10
