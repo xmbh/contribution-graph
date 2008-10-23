@@ -3222,3 +3222,4 @@
 - Historical entry: 2008-10-20
 - Historical entry: 2008-10-21
 - Historical entry: 2008-10-22
+- Historical entry: 2008-10-23
