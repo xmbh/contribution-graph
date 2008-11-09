@@ -3239,3 +3239,4 @@
 - Historical entry: 2008-11-06
 - Historical entry: 2008-11-07
 - Historical entry: 2008-11-08
+- Historical entry: 2008-11-09
