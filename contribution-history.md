@@ -3256,3 +3256,4 @@
 - Historical entry: 2008-11-23
 - Historical entry: 2008-11-24
 - Historical entry: 2008-11-25
+- Historical entry: 2008-11-26
