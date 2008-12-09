@@ -3269,3 +3269,4 @@
 - Historical entry: 2008-12-06
 - Historical entry: 2008-12-07
 - Historical entry: 2008-12-08
+- Historical entry: 2008-12-09
