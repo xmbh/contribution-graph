@@ -3270,3 +3270,4 @@
 - Historical entry: 2008-12-07
 - Historical entry: 2008-12-08
 - Historical entry: 2008-12-09
+- Historical entry: 2008-12-10
