@@ -3286,3 +3286,4 @@
 - Historical entry: 2008-12-23
 - Historical entry: 2008-12-24
 - Historical entry: 2008-12-25
+- Historical entry: 2008-12-26
