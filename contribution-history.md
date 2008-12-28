@@ -3288,3 +3288,4 @@
 - Historical entry: 2008-12-25
 - Historical entry: 2008-12-26
 - Historical entry: 2008-12-27
+- Historical entry: 2008-12-28
