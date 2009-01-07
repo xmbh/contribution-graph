@@ -3298,3 +3298,4 @@
 - Historical entry: 2009-01-04
 - Historical entry: 2009-01-05
 - Historical entry: 2009-01-06
+- Historical entry: 2009-01-07
