@@ -3300,3 +3300,4 @@
 - Historical entry: 2009-01-06
 - Historical entry: 2009-01-07
 - Historical entry: 2009-01-08
+- Historical entry: 2009-01-09
