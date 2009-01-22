@@ -3313,3 +3313,4 @@
 - Historical entry: 2009-01-19
 - Historical entry: 2009-01-20
 - Historical entry: 2009-01-21
+- Historical entry: 2009-01-22
