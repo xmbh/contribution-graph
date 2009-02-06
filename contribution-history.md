@@ -3328,3 +3328,4 @@
 - Historical entry: 2009-02-03
 - Historical entry: 2009-02-04
 - Historical entry: 2009-02-05
+- Historical entry: 2009-02-06
