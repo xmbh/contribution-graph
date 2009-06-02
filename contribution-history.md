@@ -3444,3 +3444,4 @@
 - Historical entry: 2009-05-30
 - Historical entry: 2009-05-31
 - Historical entry: 2009-06-01
+- Historical entry: 2009-06-02
