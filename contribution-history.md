@@ -3450,3 +3450,4 @@
 - Historical entry: 2009-06-05
 - Historical entry: 2009-06-06
 - Historical entry: 2009-06-07
+- Historical entry: 2009-06-08
