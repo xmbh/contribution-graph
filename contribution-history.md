@@ -3459,3 +3459,4 @@
 - Historical entry: 2009-06-14
 - Historical entry: 2009-06-15
 - Historical entry: 2009-06-16
+- Historical entry: 2009-06-17
