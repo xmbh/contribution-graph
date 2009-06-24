@@ -3466,3 +3466,4 @@
 - Historical entry: 2009-06-21
 - Historical entry: 2009-06-22
 - Historical entry: 2009-06-23
+- Historical entry: 2009-06-24
