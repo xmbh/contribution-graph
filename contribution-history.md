@@ -3473,3 +3473,4 @@
 - Historical entry: 2009-06-28
 - Historical entry: 2009-06-29
 - Historical entry: 2009-06-30
+- Historical entry: 2009-07-01
