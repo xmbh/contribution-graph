@@ -3475,3 +3475,4 @@
 - Historical entry: 2009-06-30
 - Historical entry: 2009-07-01
 - Historical entry: 2009-07-02
+- Historical entry: 2009-07-03
