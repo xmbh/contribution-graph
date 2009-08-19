@@ -3522,3 +3522,4 @@
 - Historical entry: 2009-08-16
 - Historical entry: 2009-08-17
 - Historical entry: 2009-08-18
+- Historical entry: 2009-08-19
