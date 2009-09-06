@@ -3540,3 +3540,4 @@
 - Historical entry: 2009-09-03
 - Historical entry: 2009-09-04
 - Historical entry: 2009-09-05
+- Historical entry: 2009-09-06
