@@ -3576,3 +3576,4 @@
 - Historical entry: 2009-10-09
 - Historical entry: 2009-10-10
 - Historical entry: 2009-10-11
+- Historical entry: 2009-10-12
