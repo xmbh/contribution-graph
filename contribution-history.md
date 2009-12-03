@@ -3628,3 +3628,4 @@
 - Historical entry: 2009-11-30
 - Historical entry: 2009-12-01
 - Historical entry: 2009-12-02
+- Historical entry: 2009-12-03
