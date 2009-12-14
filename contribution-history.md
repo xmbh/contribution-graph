@@ -3639,3 +3639,4 @@
 - Historical entry: 2009-12-11
 - Historical entry: 2009-12-12
 - Historical entry: 2009-12-13
+- Historical entry: 2009-12-14
