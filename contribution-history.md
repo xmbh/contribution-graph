@@ -3645,3 +3645,4 @@
 - Historical entry: 2009-12-17
 - Historical entry: 2009-12-18
 - Historical entry: 2009-12-19
+- Historical entry: 2009-12-20
