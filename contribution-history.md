@@ -3659,3 +3659,4 @@
 - Historical entry: 2009-12-31
 - Historical entry: 2010-01-01
 - Historical entry: 2010-01-02
+- Historical entry: 2010-01-03
