@@ -3668,3 +3668,4 @@
 - Historical entry: 2010-01-09
 - Historical entry: 2010-01-10
 - Historical entry: 2010-01-11
+- Historical entry: 2010-01-12
