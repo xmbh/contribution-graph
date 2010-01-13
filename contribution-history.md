@@ -3669,3 +3669,4 @@
 - Historical entry: 2010-01-10
 - Historical entry: 2010-01-11
 - Historical entry: 2010-01-12
+- Historical entry: 2010-01-13
