@@ -3672,3 +3672,4 @@
 - Historical entry: 2010-01-13
 - Historical entry: 2010-01-14
 - Historical entry: 2010-01-15
+- Historical entry: 2010-01-16
