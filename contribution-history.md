@@ -3696,3 +3696,4 @@
 - Historical entry: 2010-02-06
 - Historical entry: 2010-02-07
 - Historical entry: 2010-02-08
+- Historical entry: 2010-02-09
