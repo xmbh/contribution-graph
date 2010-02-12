@@ -3699,3 +3699,4 @@
 - Historical entry: 2010-02-09
 - Historical entry: 2010-02-10
 - Historical entry: 2010-02-11
+- Historical entry: 2010-02-12
