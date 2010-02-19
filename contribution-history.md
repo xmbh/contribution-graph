@@ -3706,3 +3706,4 @@
 - Historical entry: 2010-02-16
 - Historical entry: 2010-02-17
 - Historical entry: 2010-02-18
+- Historical entry: 2010-02-19
