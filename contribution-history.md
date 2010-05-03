@@ -3779,3 +3779,4 @@
 - Historical entry: 2010-04-30
 - Historical entry: 2010-05-01
 - Historical entry: 2010-05-02
+- Historical entry: 2010-05-03
