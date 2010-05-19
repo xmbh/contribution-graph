@@ -3795,3 +3795,4 @@
 - Historical entry: 2010-05-16
 - Historical entry: 2010-05-17
 - Historical entry: 2010-05-18
+- Historical entry: 2010-05-19
