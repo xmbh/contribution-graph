@@ -3808,3 +3808,4 @@
 - Historical entry: 2010-05-29
 - Historical entry: 2010-05-30
 - Historical entry: 2010-05-31
+- Historical entry: 2010-06-01
