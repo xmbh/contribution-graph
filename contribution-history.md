@@ -3810,3 +3810,4 @@
 - Historical entry: 2010-05-31
 - Historical entry: 2010-06-01
 - Historical entry: 2010-06-02
+- Historical entry: 2010-06-03
