@@ -3812,3 +3812,4 @@
 - Historical entry: 2010-06-02
 - Historical entry: 2010-06-03
 - Historical entry: 2010-06-04
+- Historical entry: 2010-06-05
