@@ -3815,3 +3815,4 @@
 - Historical entry: 2010-06-05
 - Historical entry: 2010-06-06
 - Historical entry: 2010-06-07
+- Historical entry: 2010-06-08
