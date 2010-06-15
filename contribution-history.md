@@ -3822,3 +3822,4 @@
 - Historical entry: 2010-06-12
 - Historical entry: 2010-06-13
 - Historical entry: 2010-06-14
+- Historical entry: 2010-06-15
