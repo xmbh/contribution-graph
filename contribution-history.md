@@ -3823,3 +3823,4 @@
 - Historical entry: 2010-06-13
 - Historical entry: 2010-06-14
 - Historical entry: 2010-06-15
+- Historical entry: 2010-06-16
