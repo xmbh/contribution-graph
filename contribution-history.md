@@ -3825,3 +3825,4 @@
 - Historical entry: 2010-06-15
 - Historical entry: 2010-06-16
 - Historical entry: 2010-06-17
+- Historical entry: 2010-06-18
