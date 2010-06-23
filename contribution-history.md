@@ -3830,3 +3830,4 @@
 - Historical entry: 2010-06-20
 - Historical entry: 2010-06-21
 - Historical entry: 2010-06-22
+- Historical entry: 2010-06-23
