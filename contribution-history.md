@@ -3832,3 +3832,4 @@
 - Historical entry: 2010-06-22
 - Historical entry: 2010-06-23
 - Historical entry: 2010-06-24
+- Historical entry: 2010-06-25
