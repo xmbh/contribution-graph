@@ -3838,3 +3838,4 @@
 - Historical entry: 2010-06-28
 - Historical entry: 2010-06-29
 - Historical entry: 2010-06-30
+- Historical entry: 2010-07-01
