@@ -3839,3 +3839,4 @@
 - Historical entry: 2010-06-29
 - Historical entry: 2010-06-30
 - Historical entry: 2010-07-01
+- Historical entry: 2010-07-02
