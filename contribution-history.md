@@ -3856,3 +3856,4 @@
 - Historical entry: 2010-07-16
 - Historical entry: 2010-07-17
 - Historical entry: 2010-07-18
+- Historical entry: 2010-07-19
