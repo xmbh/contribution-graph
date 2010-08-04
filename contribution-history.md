@@ -3872,3 +3872,4 @@
 - Historical entry: 2010-08-01
 - Historical entry: 2010-08-02
 - Historical entry: 2010-08-03
+- Historical entry: 2010-08-04
