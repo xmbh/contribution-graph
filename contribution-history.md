@@ -3911,3 +3911,4 @@
 - Historical entry: 2010-09-09
 - Historical entry: 2010-09-10
 - Historical entry: 2010-09-11
+- Historical entry: 2010-09-12
