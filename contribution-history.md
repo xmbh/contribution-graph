@@ -3930,3 +3930,4 @@
 - Historical entry: 2010-09-28
 - Historical entry: 2010-09-29
 - Historical entry: 2010-09-30
+- Historical entry: 2010-10-01
