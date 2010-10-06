@@ -3935,3 +3935,4 @@
 - Historical entry: 2010-10-03
 - Historical entry: 2010-10-04
 - Historical entry: 2010-10-05
+- Historical entry: 2010-10-06
