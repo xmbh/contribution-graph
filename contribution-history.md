@@ -3949,3 +3949,4 @@
 - Historical entry: 2010-10-17
 - Historical entry: 2010-10-18
 - Historical entry: 2010-10-19
+- Historical entry: 2010-10-20
