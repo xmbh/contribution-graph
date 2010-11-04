@@ -3964,3 +3964,4 @@
 - Historical entry: 2010-11-01
 - Historical entry: 2010-11-02
 - Historical entry: 2010-11-03
+- Historical entry: 2010-11-04
