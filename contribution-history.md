@@ -3978,3 +3978,4 @@
 - Historical entry: 2010-11-15
 - Historical entry: 2010-11-16
 - Historical entry: 2010-11-17
+- Historical entry: 2010-11-18
