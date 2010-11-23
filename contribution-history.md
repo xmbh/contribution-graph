@@ -3983,3 +3983,4 @@
 - Historical entry: 2010-11-20
 - Historical entry: 2010-11-21
 - Historical entry: 2010-11-22
+- Historical entry: 2010-11-23
