@@ -3993,3 +3993,4 @@
 - Historical entry: 2010-11-30
 - Historical entry: 2010-12-01
 - Historical entry: 2010-12-02
+- Historical entry: 2010-12-03
