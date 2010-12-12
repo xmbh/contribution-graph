@@ -4002,3 +4002,4 @@
 - Historical entry: 2010-12-09
 - Historical entry: 2010-12-10
 - Historical entry: 2010-12-11
+- Historical entry: 2010-12-12
