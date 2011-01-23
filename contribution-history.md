@@ -4044,3 +4044,4 @@
 - Historical entry: 2011-01-20
 - Historical entry: 2011-01-21
 - Historical entry: 2011-01-22
+- Historical entry: 2011-01-23
