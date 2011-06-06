@@ -4178,3 +4178,4 @@
 - Historical entry: 2011-06-03
 - Historical entry: 2011-06-04
 - Historical entry: 2011-06-05
+- Historical entry: 2011-06-06
