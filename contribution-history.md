@@ -4183,3 +4183,4 @@
 - Historical entry: 2011-06-08
 - Historical entry: 2011-06-09
 - Historical entry: 2011-06-10
+- Historical entry: 2011-06-11
