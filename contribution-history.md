@@ -4192,3 +4192,4 @@
 - Historical entry: 2011-06-17
 - Historical entry: 2011-06-18
 - Historical entry: 2011-06-19
+- Historical entry: 2011-06-20
