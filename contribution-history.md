@@ -4204,3 +4204,4 @@
 - Historical entry: 2011-06-29
 - Historical entry: 2011-06-30
 - Historical entry: 2011-07-01
+- Historical entry: 2011-07-02
