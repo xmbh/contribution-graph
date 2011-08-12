@@ -4245,3 +4245,4 @@
 - Historical entry: 2011-08-09
 - Historical entry: 2011-08-10
 - Historical entry: 2011-08-11
+- Historical entry: 2011-08-12
