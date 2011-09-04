@@ -4268,3 +4268,4 @@
 - Historical entry: 2011-09-01
 - Historical entry: 2011-09-02
 - Historical entry: 2011-09-03
+- Historical entry: 2011-09-04
