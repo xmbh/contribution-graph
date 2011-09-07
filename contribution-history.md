@@ -4271,3 +4271,4 @@
 - Historical entry: 2011-09-04
 - Historical entry: 2011-09-05
 - Historical entry: 2011-09-06
+- Historical entry: 2011-09-07
