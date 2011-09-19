@@ -4283,3 +4283,4 @@
 - Historical entry: 2011-09-16
 - Historical entry: 2011-09-17
 - Historical entry: 2011-09-18
+- Historical entry: 2011-09-19
