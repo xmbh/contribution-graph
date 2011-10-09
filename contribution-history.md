@@ -4303,3 +4303,4 @@
 - Historical entry: 2011-10-06
 - Historical entry: 2011-10-07
 - Historical entry: 2011-10-08
+- Historical entry: 2011-10-09
