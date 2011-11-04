@@ -4329,3 +4329,4 @@
 - Historical entry: 2011-11-01
 - Historical entry: 2011-11-02
 - Historical entry: 2011-11-03
+- Historical entry: 2011-11-04
