@@ -4363,3 +4363,4 @@
 - Historical entry: 2011-12-05
 - Historical entry: 2011-12-06
 - Historical entry: 2011-12-07
+- Historical entry: 2011-12-08
