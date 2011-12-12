@@ -4367,3 +4367,4 @@
 - Historical entry: 2011-12-09
 - Historical entry: 2011-12-10
 - Historical entry: 2011-12-11
+- Historical entry: 2011-12-12
