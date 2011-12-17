@@ -4372,3 +4372,4 @@
 - Historical entry: 2011-12-14
 - Historical entry: 2011-12-15
 - Historical entry: 2011-12-16
+- Historical entry: 2011-12-17
