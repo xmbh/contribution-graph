@@ -4378,3 +4378,4 @@
 - Historical entry: 2011-12-20
 - Historical entry: 2011-12-21
 - Historical entry: 2011-12-22
+- Historical entry: 2011-12-23
