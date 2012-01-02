@@ -4388,3 +4388,4 @@
 - Historical entry: 2011-12-30
 - Historical entry: 2011-12-31
 - Historical entry: 2012-01-01
+- Historical entry: 2012-01-02
