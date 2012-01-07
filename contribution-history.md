@@ -4393,3 +4393,4 @@
 - Historical entry: 2012-01-04
 - Historical entry: 2012-01-05
 - Historical entry: 2012-01-06
+- Historical entry: 2012-01-07
