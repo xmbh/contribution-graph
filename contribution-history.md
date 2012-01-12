@@ -4398,3 +4398,4 @@
 - Historical entry: 2012-01-09
 - Historical entry: 2012-01-10
 - Historical entry: 2012-01-11
+- Historical entry: 2012-01-12
