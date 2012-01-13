@@ -4399,3 +4399,4 @@
 - Historical entry: 2012-01-10
 - Historical entry: 2012-01-11
 - Historical entry: 2012-01-12
+- Historical entry: 2012-01-13
