@@ -4421,3 +4421,4 @@
 - Historical entry: 2012-02-01
 - Historical entry: 2012-02-02
 - Historical entry: 2012-02-03
+- Historical entry: 2012-02-04
