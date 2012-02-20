@@ -4437,3 +4437,4 @@
 - Historical entry: 2012-02-17
 - Historical entry: 2012-02-18
 - Historical entry: 2012-02-19
+- Historical entry: 2012-02-20
