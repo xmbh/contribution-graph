@@ -4510,3 +4510,4 @@
 - Historical entry: 2012-04-30
 - Historical entry: 2012-05-01
 - Historical entry: 2012-05-02
+- Historical entry: 2012-05-03
