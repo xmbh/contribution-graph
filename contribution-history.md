@@ -4519,3 +4519,4 @@
 - Historical entry: 2012-05-09
 - Historical entry: 2012-05-10
 - Historical entry: 2012-05-11
+- Historical entry: 2012-05-12
