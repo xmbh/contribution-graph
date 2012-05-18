@@ -4525,3 +4525,4 @@
 - Historical entry: 2012-05-15
 - Historical entry: 2012-05-16
 - Historical entry: 2012-05-17
+- Historical entry: 2012-05-18
