@@ -4537,3 +4537,4 @@
 - Historical entry: 2012-05-27
 - Historical entry: 2012-05-28
 - Historical entry: 2012-05-29
+- Historical entry: 2012-05-30
