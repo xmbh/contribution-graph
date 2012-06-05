@@ -4543,3 +4543,4 @@
 - Historical entry: 2012-06-02
 - Historical entry: 2012-06-03
 - Historical entry: 2012-06-04
+- Historical entry: 2012-06-05
