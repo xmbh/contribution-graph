@@ -4545,3 +4545,4 @@
 - Historical entry: 2012-06-04
 - Historical entry: 2012-06-05
 - Historical entry: 2012-06-06
+- Historical entry: 2012-06-07
