@@ -4550,3 +4550,4 @@
 - Historical entry: 2012-06-09
 - Historical entry: 2012-06-10
 - Historical entry: 2012-06-11
+- Historical entry: 2012-06-12
