@@ -4580,3 +4580,4 @@
 - Historical entry: 2012-07-09
 - Historical entry: 2012-07-10
 - Historical entry: 2012-07-11
+- Historical entry: 2012-07-12
