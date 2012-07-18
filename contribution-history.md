@@ -4586,3 +4586,4 @@
 - Historical entry: 2012-07-15
 - Historical entry: 2012-07-16
 - Historical entry: 2012-07-17
+- Historical entry: 2012-07-18
