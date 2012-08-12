@@ -4611,3 +4611,4 @@
 - Historical entry: 2012-08-09
 - Historical entry: 2012-08-10
 - Historical entry: 2012-08-11
+- Historical entry: 2012-08-12
