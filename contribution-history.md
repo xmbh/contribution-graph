@@ -4632,3 +4632,4 @@
 - Historical entry: 2012-08-30
 - Historical entry: 2012-08-31
 - Historical entry: 2012-09-01
+- Historical entry: 2012-09-02
