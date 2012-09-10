@@ -4640,3 +4640,4 @@
 - Historical entry: 2012-09-07
 - Historical entry: 2012-09-08
 - Historical entry: 2012-09-09
+- Historical entry: 2012-09-10
