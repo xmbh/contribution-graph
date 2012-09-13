@@ -4643,3 +4643,4 @@
 - Historical entry: 2012-09-10
 - Historical entry: 2012-09-11
 - Historical entry: 2012-09-12
+- Historical entry: 2012-09-13
