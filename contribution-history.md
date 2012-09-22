@@ -4652,3 +4652,4 @@
 - Historical entry: 2012-09-19
 - Historical entry: 2012-09-20
 - Historical entry: 2012-09-21
+- Historical entry: 2012-09-22
