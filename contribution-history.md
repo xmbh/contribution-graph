@@ -4661,3 +4661,4 @@
 - Historical entry: 2012-09-28
 - Historical entry: 2012-09-29
 - Historical entry: 2012-09-30
+- Historical entry: 2012-10-01
