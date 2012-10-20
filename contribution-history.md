@@ -4680,3 +4680,4 @@
 - Historical entry: 2012-10-17
 - Historical entry: 2012-10-18
 - Historical entry: 2012-10-19
+- Historical entry: 2012-10-20
