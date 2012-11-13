@@ -4704,3 +4704,4 @@
 - Historical entry: 2012-11-10
 - Historical entry: 2012-11-11
 - Historical entry: 2012-11-12
+- Historical entry: 2012-11-13
