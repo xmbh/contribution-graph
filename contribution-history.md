@@ -4710,3 +4710,4 @@
 - Historical entry: 2012-11-16
 - Historical entry: 2012-11-17
 - Historical entry: 2012-11-18
+- Historical entry: 2012-11-19
