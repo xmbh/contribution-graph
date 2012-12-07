@@ -4728,3 +4728,4 @@
 - Historical entry: 2012-12-04
 - Historical entry: 2012-12-05
 - Historical entry: 2012-12-06
+- Historical entry: 2012-12-07
