@@ -4732,3 +4732,4 @@
 - Historical entry: 2012-12-08
 - Historical entry: 2012-12-09
 - Historical entry: 2012-12-10
+- Historical entry: 2012-12-11
