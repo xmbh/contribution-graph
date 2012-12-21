@@ -4742,3 +4742,4 @@
 - Historical entry: 2012-12-18
 - Historical entry: 2012-12-19
 - Historical entry: 2012-12-20
+- Historical entry: 2012-12-21
