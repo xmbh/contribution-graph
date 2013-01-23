@@ -4775,3 +4775,4 @@
 - Historical entry: 2013-01-20
 - Historical entry: 2013-01-21
 - Historical entry: 2013-01-22
+- Historical entry: 2013-01-23
