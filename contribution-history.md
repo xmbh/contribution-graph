@@ -4874,3 +4874,4 @@
 - Historical entry: 2013-04-29
 - Historical entry: 2013-04-30
 - Historical entry: 2013-05-01
+- Historical entry: 2013-05-02
