@@ -4879,3 +4879,4 @@
 - Historical entry: 2013-05-04
 - Historical entry: 2013-05-05
 - Historical entry: 2013-05-06
+- Historical entry: 2013-05-07
