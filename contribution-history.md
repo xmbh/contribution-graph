@@ -4907,3 +4907,4 @@
 - Historical entry: 2013-06-01
 - Historical entry: 2013-06-02
 - Historical entry: 2013-06-03
+- Historical entry: 2013-06-04
