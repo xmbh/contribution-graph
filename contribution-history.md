@@ -4910,3 +4910,4 @@
 - Historical entry: 2013-06-04
 - Historical entry: 2013-06-05
 - Historical entry: 2013-06-06
+- Historical entry: 2013-06-07
