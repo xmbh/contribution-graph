@@ -4919,3 +4919,4 @@
 - Historical entry: 2013-06-13
 - Historical entry: 2013-06-14
 - Historical entry: 2013-06-15
+- Historical entry: 2013-06-16
