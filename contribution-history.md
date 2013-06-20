@@ -4923,3 +4923,4 @@
 - Historical entry: 2013-06-17
 - Historical entry: 2013-06-18
 - Historical entry: 2013-06-19
+- Historical entry: 2013-06-20
