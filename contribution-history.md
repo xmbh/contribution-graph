@@ -4925,3 +4925,4 @@
 - Historical entry: 2013-06-19
 - Historical entry: 2013-06-20
 - Historical entry: 2013-06-21
+- Historical entry: 2013-06-22
