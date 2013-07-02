@@ -4935,3 +4935,4 @@
 - Historical entry: 2013-06-29
 - Historical entry: 2013-06-30
 - Historical entry: 2013-07-01
+- Historical entry: 2013-07-02
