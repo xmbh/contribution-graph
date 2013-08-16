@@ -4980,3 +4980,4 @@
 - Historical entry: 2013-08-13
 - Historical entry: 2013-08-14
 - Historical entry: 2013-08-15
+- Historical entry: 2013-08-16
