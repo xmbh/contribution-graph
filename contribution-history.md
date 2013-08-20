@@ -4984,3 +4984,4 @@
 - Historical entry: 2013-08-17
 - Historical entry: 2013-08-18
 - Historical entry: 2013-08-19
+- Historical entry: 2013-08-20
