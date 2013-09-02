@@ -4997,3 +4997,4 @@
 - Historical entry: 2013-08-30
 - Historical entry: 2013-08-31
 - Historical entry: 2013-09-01
+- Historical entry: 2013-09-02
