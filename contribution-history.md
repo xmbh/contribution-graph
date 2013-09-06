@@ -5001,3 +5001,4 @@
 - Historical entry: 2013-09-03
 - Historical entry: 2013-09-04
 - Historical entry: 2013-09-05
+- Historical entry: 2013-09-06
