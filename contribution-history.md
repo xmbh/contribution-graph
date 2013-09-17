@@ -5012,3 +5012,4 @@
 - Historical entry: 2013-09-14
 - Historical entry: 2013-09-15
 - Historical entry: 2013-09-16
+- Historical entry: 2013-09-17
