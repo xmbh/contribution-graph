@@ -5015,3 +5015,4 @@
 - Historical entry: 2013-09-17
 - Historical entry: 2013-09-18
 - Historical entry: 2013-09-19
+- Historical entry: 2013-09-20
