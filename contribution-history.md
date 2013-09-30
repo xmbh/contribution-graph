@@ -5025,3 +5025,4 @@
 - Historical entry: 2013-09-27
 - Historical entry: 2013-09-28
 - Historical entry: 2013-09-29
+- Historical entry: 2013-09-30
