@@ -5037,3 +5037,4 @@
 - Historical entry: 2013-10-09
 - Historical entry: 2013-10-10
 - Historical entry: 2013-10-11
+- Historical entry: 2013-10-12
