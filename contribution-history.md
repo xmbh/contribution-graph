@@ -5048,3 +5048,4 @@
 - Historical entry: 2013-10-20
 - Historical entry: 2013-10-21
 - Historical entry: 2013-10-22
+- Historical entry: 2013-10-23
