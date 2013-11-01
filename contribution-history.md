@@ -5057,3 +5057,4 @@
 - Historical entry: 2013-10-29
 - Historical entry: 2013-10-30
 - Historical entry: 2013-10-31
+- Historical entry: 2013-11-01
