@@ -5068,3 +5068,4 @@
 - Historical entry: 2013-11-09
 - Historical entry: 2013-11-10
 - Historical entry: 2013-11-11
+- Historical entry: 2013-11-12
