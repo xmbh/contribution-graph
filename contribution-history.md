@@ -5079,3 +5079,4 @@
 - Historical entry: 2013-11-20
 - Historical entry: 2013-11-21
 - Historical entry: 2013-11-22
+- Historical entry: 2013-11-23
