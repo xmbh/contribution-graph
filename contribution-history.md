@@ -5090,3 +5090,4 @@
 - Historical entry: 2013-12-01
 - Historical entry: 2013-12-02
 - Historical entry: 2013-12-03
+- Historical entry: 2013-12-04
