@@ -5095,3 +5095,4 @@
 - Historical entry: 2013-12-06
 - Historical entry: 2013-12-07
 - Historical entry: 2013-12-08
+- Historical entry: 2013-12-09
