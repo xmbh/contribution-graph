@@ -5098,3 +5098,4 @@
 - Historical entry: 2013-12-09
 - Historical entry: 2013-12-10
 - Historical entry: 2013-12-11
+- Historical entry: 2013-12-12
