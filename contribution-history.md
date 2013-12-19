@@ -5105,3 +5105,4 @@
 - Historical entry: 2013-12-16
 - Historical entry: 2013-12-17
 - Historical entry: 2013-12-18
+- Historical entry: 2013-12-19
