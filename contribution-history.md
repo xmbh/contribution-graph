@@ -5129,3 +5129,4 @@
 - Historical entry: 2014-01-09
 - Historical entry: 2014-01-10
 - Historical entry: 2014-01-11
+- Historical entry: 2014-01-12
