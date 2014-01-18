@@ -5135,3 +5135,4 @@
 - Historical entry: 2014-01-15
 - Historical entry: 2014-01-16
 - Historical entry: 2014-01-17
+- Historical entry: 2014-01-18
