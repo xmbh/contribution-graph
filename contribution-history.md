@@ -5168,3 +5168,4 @@
 - Historical entry: 2014-02-17
 - Historical entry: 2014-02-18
 - Historical entry: 2014-02-19
+- Historical entry: 2014-02-20
