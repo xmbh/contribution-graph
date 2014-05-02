@@ -5239,3 +5239,4 @@
 - Historical entry: 2014-04-29
 - Historical entry: 2014-04-30
 - Historical entry: 2014-05-01
+- Historical entry: 2014-05-02
