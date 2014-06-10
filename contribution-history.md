@@ -5278,3 +5278,4 @@
 - Historical entry: 2014-06-07
 - Historical entry: 2014-06-08
 - Historical entry: 2014-06-09
+- Historical entry: 2014-06-10
