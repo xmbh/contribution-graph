@@ -5280,3 +5280,4 @@
 - Historical entry: 2014-06-09
 - Historical entry: 2014-06-10
 - Historical entry: 2014-06-11
+- Historical entry: 2014-06-12
