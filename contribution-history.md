@@ -5287,3 +5287,4 @@
 - Historical entry: 2014-06-16
 - Historical entry: 2014-06-17
 - Historical entry: 2014-06-18
+- Historical entry: 2014-06-19
