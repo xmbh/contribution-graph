@@ -5288,3 +5288,4 @@
 - Historical entry: 2014-06-17
 - Historical entry: 2014-06-18
 - Historical entry: 2014-06-19
+- Historical entry: 2014-06-20
