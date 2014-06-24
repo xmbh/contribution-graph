@@ -5292,3 +5292,4 @@
 - Historical entry: 2014-06-21
 - Historical entry: 2014-06-22
 - Historical entry: 2014-06-23
+- Historical entry: 2014-06-24
