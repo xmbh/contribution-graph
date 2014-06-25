@@ -5293,3 +5293,4 @@
 - Historical entry: 2014-06-22
 - Historical entry: 2014-06-23
 - Historical entry: 2014-06-24
+- Historical entry: 2014-06-25
