@@ -5295,3 +5295,4 @@
 - Historical entry: 2014-06-24
 - Historical entry: 2014-06-25
 - Historical entry: 2014-06-26
+- Historical entry: 2014-06-27
