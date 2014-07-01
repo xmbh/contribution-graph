@@ -5299,3 +5299,4 @@
 - Historical entry: 2014-06-28
 - Historical entry: 2014-06-29
 - Historical entry: 2014-06-30
+- Historical entry: 2014-07-01
