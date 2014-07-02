@@ -5300,3 +5300,4 @@
 - Historical entry: 2014-06-29
 - Historical entry: 2014-06-30
 - Historical entry: 2014-07-01
+- Historical entry: 2014-07-02
