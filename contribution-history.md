@@ -5301,3 +5301,4 @@
 - Historical entry: 2014-06-30
 - Historical entry: 2014-07-01
 - Historical entry: 2014-07-02
+- Historical entry: 2014-07-03
