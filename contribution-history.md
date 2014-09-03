@@ -5363,3 +5363,4 @@
 - Historical entry: 2014-08-31
 - Historical entry: 2014-09-01
 - Historical entry: 2014-09-02
+- Historical entry: 2014-09-03
