@@ -5373,3 +5373,4 @@
 - Historical entry: 2014-09-10
 - Historical entry: 2014-09-11
 - Historical entry: 2014-09-12
+- Historical entry: 2014-09-13
