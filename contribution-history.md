@@ -5396,3 +5396,4 @@
 - Historical entry: 2014-10-03
 - Historical entry: 2014-10-04
 - Historical entry: 2014-10-05
+- Historical entry: 2014-10-06
