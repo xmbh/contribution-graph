@@ -5402,3 +5402,4 @@
 - Historical entry: 2014-10-09
 - Historical entry: 2014-10-10
 - Historical entry: 2014-10-11
+- Historical entry: 2014-10-12
