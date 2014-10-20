@@ -5410,3 +5410,4 @@
 - Historical entry: 2014-10-17
 - Historical entry: 2014-10-18
 - Historical entry: 2014-10-19
+- Historical entry: 2014-10-20
