@@ -5423,3 +5423,4 @@
 - Historical entry: 2014-10-30
 - Historical entry: 2014-10-31
 - Historical entry: 2014-11-01
+- Historical entry: 2014-11-02
