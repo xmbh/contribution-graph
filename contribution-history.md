@@ -5449,3 +5449,4 @@
 - Historical entry: 2014-11-25
 - Historical entry: 2014-11-26
 - Historical entry: 2014-11-27
+- Historical entry: 2014-11-28
