@@ -5453,3 +5453,4 @@
 - Historical entry: 2014-11-29
 - Historical entry: 2014-11-30
 - Historical entry: 2014-12-01
+- Historical entry: 2014-12-02
