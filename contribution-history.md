@@ -5472,3 +5472,4 @@
 - Historical entry: 2014-12-18
 - Historical entry: 2014-12-19
 - Historical entry: 2014-12-20
+- Historical entry: 2014-12-21
