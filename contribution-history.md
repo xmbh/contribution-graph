@@ -5484,3 +5484,4 @@
 - Historical entry: 2014-12-30
 - Historical entry: 2014-12-31
 - Historical entry: 2015-01-01
+- Historical entry: 2015-01-02
