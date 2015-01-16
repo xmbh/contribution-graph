@@ -5498,3 +5498,4 @@
 - Historical entry: 2015-01-13
 - Historical entry: 2015-01-14
 - Historical entry: 2015-01-15
+- Historical entry: 2015-01-16
