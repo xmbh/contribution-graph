@@ -5504,3 +5504,4 @@
 - Historical entry: 2015-01-19
 - Historical entry: 2015-01-20
 - Historical entry: 2015-01-21
+- Historical entry: 2015-01-22
