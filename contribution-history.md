@@ -5532,3 +5532,4 @@
 - Historical entry: 2015-02-16
 - Historical entry: 2015-02-17
 - Historical entry: 2015-02-18
+- Historical entry: 2015-02-19
