@@ -5637,3 +5637,4 @@
 - Historical entry: 2015-06-01
 - Historical entry: 2015-06-02
 - Historical entry: 2015-06-03
+- Historical entry: 2015-06-04
