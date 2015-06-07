@@ -5640,3 +5640,4 @@
 - Historical entry: 2015-06-04
 - Historical entry: 2015-06-05
 - Historical entry: 2015-06-06
+- Historical entry: 2015-06-07
