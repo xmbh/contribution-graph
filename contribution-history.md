@@ -5653,3 +5653,4 @@
 - Historical entry: 2015-06-17
 - Historical entry: 2015-06-18
 - Historical entry: 2015-06-19
+- Historical entry: 2015-06-20
