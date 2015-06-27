@@ -5660,3 +5660,4 @@
 - Historical entry: 2015-06-24
 - Historical entry: 2015-06-25
 - Historical entry: 2015-06-26
+- Historical entry: 2015-06-27
