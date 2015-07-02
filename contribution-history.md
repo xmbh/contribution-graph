@@ -5665,3 +5665,4 @@
 - Historical entry: 2015-06-29
 - Historical entry: 2015-06-30
 - Historical entry: 2015-07-01
+- Historical entry: 2015-07-02
