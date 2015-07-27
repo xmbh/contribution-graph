@@ -5690,3 +5690,4 @@
 - Historical entry: 2015-07-24
 - Historical entry: 2015-07-25
 - Historical entry: 2015-07-26
+- Historical entry: 2015-07-27
