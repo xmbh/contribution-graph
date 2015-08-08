@@ -5702,3 +5702,4 @@
 - Historical entry: 2015-08-05
 - Historical entry: 2015-08-06
 - Historical entry: 2015-08-07
+- Historical entry: 2015-08-08
