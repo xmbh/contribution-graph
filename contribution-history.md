@@ -5757,3 +5757,4 @@
 - Historical entry: 2015-09-29
 - Historical entry: 2015-09-30
 - Historical entry: 2015-10-01
+- Historical entry: 2015-10-02
