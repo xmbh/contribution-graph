@@ -5818,3 +5818,4 @@
 - Historical entry: 2015-11-29
 - Historical entry: 2015-11-30
 - Historical entry: 2015-12-01
+- Historical entry: 2015-12-02
