@@ -5848,3 +5848,4 @@
 - Historical entry: 2015-12-29
 - Historical entry: 2015-12-30
 - Historical entry: 2015-12-31
+- Historical entry: 2016-01-01
