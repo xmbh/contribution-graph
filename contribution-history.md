@@ -5860,3 +5860,4 @@
 - Historical entry: 2016-01-10
 - Historical entry: 2016-01-11
 - Historical entry: 2016-01-12
+- Historical entry: 2016-01-13
