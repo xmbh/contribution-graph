@@ -5861,3 +5861,4 @@
 - Historical entry: 2016-01-11
 - Historical entry: 2016-01-12
 - Historical entry: 2016-01-13
+- Historical entry: 2016-01-14
