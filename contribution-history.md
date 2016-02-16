@@ -5894,3 +5894,4 @@
 - Historical entry: 2016-02-13
 - Historical entry: 2016-02-14
 - Historical entry: 2016-02-15
+- Historical entry: 2016-02-16
