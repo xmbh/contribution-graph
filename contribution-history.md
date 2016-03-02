@@ -5909,3 +5909,4 @@
 - Historical entry: 2016-02-28
 - Historical entry: 2016-02-29
 - Historical entry: 2016-03-01
+- Historical entry: 2016-03-02
