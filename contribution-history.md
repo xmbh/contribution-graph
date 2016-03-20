@@ -5927,3 +5927,4 @@
 - Historical entry: 2016-03-17
 - Historical entry: 2016-03-18
 - Historical entry: 2016-03-19
+- Historical entry: 2016-03-20
