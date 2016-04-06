@@ -5944,3 +5944,4 @@
 - Historical entry: 2016-04-03
 - Historical entry: 2016-04-04
 - Historical entry: 2016-04-05
+- Historical entry: 2016-04-06
