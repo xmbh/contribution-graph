@@ -5972,3 +5972,4 @@
 - Historical entry: 2016-05-01
 - Historical entry: 2016-05-02
 - Historical entry: 2016-05-03
+- Historical entry: 2016-05-04
