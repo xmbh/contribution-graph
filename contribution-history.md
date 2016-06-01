@@ -6000,3 +6000,4 @@
 - Historical entry: 2016-05-29
 - Historical entry: 2016-05-30
 - Historical entry: 2016-05-31
+- Historical entry: 2016-06-01
