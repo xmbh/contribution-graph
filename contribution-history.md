@@ -6002,3 +6002,4 @@
 - Historical entry: 2016-05-31
 - Historical entry: 2016-06-01
 - Historical entry: 2016-06-02
+- Historical entry: 2016-06-03
