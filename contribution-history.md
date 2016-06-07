@@ -6006,3 +6006,4 @@
 - Historical entry: 2016-06-04
 - Historical entry: 2016-06-05
 - Historical entry: 2016-06-06
+- Historical entry: 2016-06-07
