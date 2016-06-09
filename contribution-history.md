@@ -6008,3 +6008,4 @@
 - Historical entry: 2016-06-06
 - Historical entry: 2016-06-07
 - Historical entry: 2016-06-08
+- Historical entry: 2016-06-09
