@@ -6016,3 +6016,4 @@
 - Historical entry: 2016-06-14
 - Historical entry: 2016-06-15
 - Historical entry: 2016-06-16
+- Historical entry: 2016-06-17
