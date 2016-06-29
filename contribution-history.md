@@ -6028,3 +6028,4 @@
 - Historical entry: 2016-06-26
 - Historical entry: 2016-06-27
 - Historical entry: 2016-06-28
+- Historical entry: 2016-06-29
