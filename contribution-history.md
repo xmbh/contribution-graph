@@ -6032,3 +6032,4 @@
 - Historical entry: 2016-06-30
 - Historical entry: 2016-07-01
 - Historical entry: 2016-07-02
+- Historical entry: 2016-07-03
