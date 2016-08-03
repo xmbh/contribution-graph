@@ -6063,3 +6063,4 @@
 - Historical entry: 2016-07-31
 - Historical entry: 2016-08-01
 - Historical entry: 2016-08-02
+- Historical entry: 2016-08-03
