@@ -6072,3 +6072,4 @@
 - Historical entry: 2016-08-09
 - Historical entry: 2016-08-10
 - Historical entry: 2016-08-11
+- Historical entry: 2016-08-12
