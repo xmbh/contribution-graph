@@ -6075,3 +6075,4 @@
 - Historical entry: 2016-08-12
 - Historical entry: 2016-08-13
 - Historical entry: 2016-08-14
+- Historical entry: 2016-08-15
