@@ -6094,3 +6094,4 @@
 - Historical entry: 2016-08-31
 - Historical entry: 2016-09-01
 - Historical entry: 2016-09-02
+- Historical entry: 2016-09-03
