@@ -6112,3 +6112,4 @@
 - Historical entry: 2016-09-18
 - Historical entry: 2016-09-19
 - Historical entry: 2016-09-20
+- Historical entry: 2016-09-21
