@@ -6159,3 +6159,4 @@
 - Historical entry: 2016-11-04
 - Historical entry: 2016-11-05
 - Historical entry: 2016-11-06
+- Historical entry: 2016-11-07
