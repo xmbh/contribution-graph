@@ -6174,3 +6174,4 @@
 - Historical entry: 2016-11-19
 - Historical entry: 2016-11-20
 - Historical entry: 2016-11-21
+- Historical entry: 2016-11-22
