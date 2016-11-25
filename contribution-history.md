@@ -6177,3 +6177,4 @@
 - Historical entry: 2016-11-22
 - Historical entry: 2016-11-23
 - Historical entry: 2016-11-24
+- Historical entry: 2016-11-25
