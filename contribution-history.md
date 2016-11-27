@@ -6179,3 +6179,4 @@
 - Historical entry: 2016-11-24
 - Historical entry: 2016-11-25
 - Historical entry: 2016-11-26
+- Historical entry: 2016-11-27
