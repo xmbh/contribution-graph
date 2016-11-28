@@ -6180,3 +6180,4 @@
 - Historical entry: 2016-11-25
 - Historical entry: 2016-11-26
 - Historical entry: 2016-11-27
+- Historical entry: 2016-11-28
