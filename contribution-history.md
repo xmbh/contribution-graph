@@ -6212,3 +6212,4 @@
 - Historical entry: 2016-12-27
 - Historical entry: 2016-12-28
 - Historical entry: 2016-12-29
+- Historical entry: 2016-12-30
