@@ -6214,3 +6214,4 @@
 - Historical entry: 2016-12-29
 - Historical entry: 2016-12-30
 - Historical entry: 2016-12-31
+- Historical entry: 2017-01-01
