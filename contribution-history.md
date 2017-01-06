@@ -6219,3 +6219,4 @@
 - Historical entry: 2017-01-03
 - Historical entry: 2017-01-04
 - Historical entry: 2017-01-05
+- Historical entry: 2017-01-06
