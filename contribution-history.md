@@ -6221,3 +6221,4 @@
 - Historical entry: 2017-01-05
 - Historical entry: 2017-01-06
 - Historical entry: 2017-01-07
+- Historical entry: 2017-01-08
