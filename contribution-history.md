@@ -6225,3 +6225,4 @@
 - Historical entry: 2017-01-09
 - Historical entry: 2017-01-10
 - Historical entry: 2017-01-11
+- Historical entry: 2017-01-12
