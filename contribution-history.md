@@ -6230,3 +6230,4 @@
 - Historical entry: 2017-01-14
 - Historical entry: 2017-01-15
 - Historical entry: 2017-01-16
+- Historical entry: 2017-01-17
