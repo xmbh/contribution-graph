@@ -6235,3 +6235,4 @@
 - Historical entry: 2017-01-19
 - Historical entry: 2017-01-20
 - Historical entry: 2017-01-21
+- Historical entry: 2017-01-22
