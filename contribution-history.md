@@ -6236,3 +6236,4 @@
 - Historical entry: 2017-01-20
 - Historical entry: 2017-01-21
 - Historical entry: 2017-01-22
+- Historical entry: 2017-01-23
