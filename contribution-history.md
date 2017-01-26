@@ -6239,3 +6239,4 @@
 - Historical entry: 2017-01-23
 - Historical entry: 2017-01-24
 - Historical entry: 2017-01-25
+- Historical entry: 2017-01-26
