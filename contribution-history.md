@@ -6245,3 +6245,4 @@
 - Historical entry: 2017-01-29
 - Historical entry: 2017-01-30
 - Historical entry: 2017-01-31
+- Historical entry: 2017-02-01
