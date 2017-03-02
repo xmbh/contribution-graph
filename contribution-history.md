@@ -6274,3 +6274,4 @@
 - Historical entry: 2017-02-27
 - Historical entry: 2017-02-28
 - Historical entry: 2017-03-01
+- Historical entry: 2017-03-02
