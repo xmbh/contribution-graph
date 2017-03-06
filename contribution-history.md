@@ -6278,3 +6278,4 @@
 - Historical entry: 2017-03-03
 - Historical entry: 2017-03-04
 - Historical entry: 2017-03-05
+- Historical entry: 2017-03-06
