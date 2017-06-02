@@ -6366,3 +6366,4 @@
 - Historical entry: 2017-05-30
 - Historical entry: 2017-05-31
 - Historical entry: 2017-06-01
+- Historical entry: 2017-06-02
