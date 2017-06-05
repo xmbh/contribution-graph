@@ -6369,3 +6369,4 @@
 - Historical entry: 2017-06-02
 - Historical entry: 2017-06-03
 - Historical entry: 2017-06-04
+- Historical entry: 2017-06-05
