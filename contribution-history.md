@@ -6370,3 +6370,4 @@
 - Historical entry: 2017-06-03
 - Historical entry: 2017-06-04
 - Historical entry: 2017-06-05
+- Historical entry: 2017-06-06
