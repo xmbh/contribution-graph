@@ -6373,3 +6373,4 @@
 - Historical entry: 2017-06-06
 - Historical entry: 2017-06-07
 - Historical entry: 2017-06-08
+- Historical entry: 2017-06-09
