@@ -6375,3 +6375,4 @@
 - Historical entry: 2017-06-08
 - Historical entry: 2017-06-09
 - Historical entry: 2017-06-10
+- Historical entry: 2017-06-11
