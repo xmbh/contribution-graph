@@ -6378,3 +6378,4 @@
 - Historical entry: 2017-06-11
 - Historical entry: 2017-06-12
 - Historical entry: 2017-06-13
+- Historical entry: 2017-06-14
