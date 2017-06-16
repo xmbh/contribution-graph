@@ -6380,3 +6380,4 @@
 - Historical entry: 2017-06-13
 - Historical entry: 2017-06-14
 - Historical entry: 2017-06-15
+- Historical entry: 2017-06-16
