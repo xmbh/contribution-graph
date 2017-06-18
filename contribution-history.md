@@ -6382,3 +6382,4 @@
 - Historical entry: 2017-06-15
 - Historical entry: 2017-06-16
 - Historical entry: 2017-06-17
+- Historical entry: 2017-06-18
