@@ -6387,3 +6387,4 @@
 - Historical entry: 2017-06-20
 - Historical entry: 2017-06-21
 - Historical entry: 2017-06-22
+- Historical entry: 2017-06-23
