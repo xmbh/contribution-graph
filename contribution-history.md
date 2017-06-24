@@ -6388,3 +6388,4 @@
 - Historical entry: 2017-06-21
 - Historical entry: 2017-06-22
 - Historical entry: 2017-06-23
+- Historical entry: 2017-06-24
