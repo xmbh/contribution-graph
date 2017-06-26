@@ -6390,3 +6390,4 @@
 - Historical entry: 2017-06-23
 - Historical entry: 2017-06-24
 - Historical entry: 2017-06-25
+- Historical entry: 2017-06-26
