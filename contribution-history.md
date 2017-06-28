@@ -6392,3 +6392,4 @@
 - Historical entry: 2017-06-25
 - Historical entry: 2017-06-26
 - Historical entry: 2017-06-27
+- Historical entry: 2017-06-28
