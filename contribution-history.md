@@ -6400,3 +6400,4 @@
 - Historical entry: 2017-07-03
 - Historical entry: 2017-07-04
 - Historical entry: 2017-07-05
+- Historical entry: 2017-07-06
