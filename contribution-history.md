@@ -6437,3 +6437,4 @@
 - Historical entry: 2017-08-09
 - Historical entry: 2017-08-10
 - Historical entry: 2017-08-11
+- Historical entry: 2017-08-12
