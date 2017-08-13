@@ -6438,3 +6438,4 @@
 - Historical entry: 2017-08-10
 - Historical entry: 2017-08-11
 - Historical entry: 2017-08-12
+- Historical entry: 2017-08-13
