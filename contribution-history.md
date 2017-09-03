@@ -6459,3 +6459,4 @@
 - Historical entry: 2017-08-31
 - Historical entry: 2017-09-01
 - Historical entry: 2017-09-02
+- Historical entry: 2017-09-03
