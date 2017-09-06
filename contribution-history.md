@@ -6462,3 +6462,4 @@
 - Historical entry: 2017-09-03
 - Historical entry: 2017-09-04
 - Historical entry: 2017-09-05
+- Historical entry: 2017-09-06
