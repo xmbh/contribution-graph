@@ -6473,3 +6473,4 @@
 - Historical entry: 2017-09-14
 - Historical entry: 2017-09-15
 - Historical entry: 2017-09-16
+- Historical entry: 2017-09-17
