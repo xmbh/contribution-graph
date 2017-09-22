@@ -6478,3 +6478,4 @@
 - Historical entry: 2017-09-19
 - Historical entry: 2017-09-20
 - Historical entry: 2017-09-21
+- Historical entry: 2017-09-22
