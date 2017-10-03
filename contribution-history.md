@@ -6489,3 +6489,4 @@
 - Historical entry: 2017-09-30
 - Historical entry: 2017-10-01
 - Historical entry: 2017-10-02
+- Historical entry: 2017-10-03
