@@ -6490,3 +6490,4 @@
 - Historical entry: 2017-10-01
 - Historical entry: 2017-10-02
 - Historical entry: 2017-10-03
+- Historical entry: 2017-10-04
