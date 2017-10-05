@@ -6491,3 +6491,4 @@
 - Historical entry: 2017-10-02
 - Historical entry: 2017-10-03
 - Historical entry: 2017-10-04
+- Historical entry: 2017-10-05
