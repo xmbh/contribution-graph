@@ -6499,3 +6499,4 @@
 - Historical entry: 2017-10-10
 - Historical entry: 2017-10-11
 - Historical entry: 2017-10-12
+- Historical entry: 2017-10-13
