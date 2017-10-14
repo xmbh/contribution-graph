@@ -6500,3 +6500,4 @@
 - Historical entry: 2017-10-11
 - Historical entry: 2017-10-12
 - Historical entry: 2017-10-13
+- Historical entry: 2017-10-14
