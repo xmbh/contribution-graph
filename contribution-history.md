@@ -6503,3 +6503,4 @@
 - Historical entry: 2017-10-14
 - Historical entry: 2017-10-15
 - Historical entry: 2017-10-16
+- Historical entry: 2017-10-17
