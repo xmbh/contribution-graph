@@ -6510,3 +6510,4 @@
 - Historical entry: 2017-10-21
 - Historical entry: 2017-10-22
 - Historical entry: 2017-10-23
+- Historical entry: 2017-10-24
