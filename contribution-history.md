@@ -6518,3 +6518,4 @@
 - Historical entry: 2017-10-29
 - Historical entry: 2017-10-30
 - Historical entry: 2017-10-31
+- Historical entry: 2017-11-01
