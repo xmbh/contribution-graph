@@ -6529,3 +6529,4 @@
 - Historical entry: 2017-11-09
 - Historical entry: 2017-11-10
 - Historical entry: 2017-11-11
+- Historical entry: 2017-11-12
