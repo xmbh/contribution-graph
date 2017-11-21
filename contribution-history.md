@@ -6538,3 +6538,4 @@
 - Historical entry: 2017-11-18
 - Historical entry: 2017-11-19
 - Historical entry: 2017-11-20
+- Historical entry: 2017-11-21
