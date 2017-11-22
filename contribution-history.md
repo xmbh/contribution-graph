@@ -6539,3 +6539,4 @@
 - Historical entry: 2017-11-19
 - Historical entry: 2017-11-20
 - Historical entry: 2017-11-21
+- Historical entry: 2017-11-22
