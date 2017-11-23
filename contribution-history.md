@@ -6540,3 +6540,4 @@
 - Historical entry: 2017-11-20
 - Historical entry: 2017-11-21
 - Historical entry: 2017-11-22
+- Historical entry: 2017-11-23
