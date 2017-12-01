@@ -6548,3 +6548,4 @@
 - Historical entry: 2017-11-28
 - Historical entry: 2017-11-29
 - Historical entry: 2017-11-30
+- Historical entry: 2017-12-01
