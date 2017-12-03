@@ -6550,3 +6550,4 @@
 - Historical entry: 2017-11-30
 - Historical entry: 2017-12-01
 - Historical entry: 2017-12-02
+- Historical entry: 2017-12-03
