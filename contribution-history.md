@@ -6555,3 +6555,4 @@
 - Historical entry: 2017-12-05
 - Historical entry: 2017-12-06
 - Historical entry: 2017-12-07
+- Historical entry: 2017-12-08
