@@ -6557,3 +6557,4 @@
 - Historical entry: 2017-12-07
 - Historical entry: 2017-12-08
 - Historical entry: 2017-12-09
+- Historical entry: 2017-12-10
