@@ -6559,3 +6559,4 @@
 - Historical entry: 2017-12-09
 - Historical entry: 2017-12-10
 - Historical entry: 2017-12-11
+- Historical entry: 2017-12-12
