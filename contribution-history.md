@@ -6568,3 +6568,4 @@
 - Historical entry: 2017-12-18
 - Historical entry: 2017-12-19
 - Historical entry: 2017-12-20
+- Historical entry: 2017-12-21
