@@ -6570,3 +6570,4 @@
 - Historical entry: 2017-12-20
 - Historical entry: 2017-12-21
 - Historical entry: 2017-12-22
+- Historical entry: 2017-12-23
