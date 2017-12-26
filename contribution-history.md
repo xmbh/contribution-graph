@@ -6573,3 +6573,4 @@
 - Historical entry: 2017-12-23
 - Historical entry: 2017-12-24
 - Historical entry: 2017-12-25
+- Historical entry: 2017-12-26
