@@ -6579,3 +6579,4 @@
 - Historical entry: 2017-12-29
 - Historical entry: 2017-12-30
 - Historical entry: 2017-12-31
+- Historical entry: 2018-01-01
