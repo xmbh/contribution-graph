@@ -6581,3 +6581,4 @@
 - Historical entry: 2017-12-31
 - Historical entry: 2018-01-01
 - Historical entry: 2018-01-02
+- Historical entry: 2018-01-03
