@@ -6585,3 +6585,4 @@
 - Historical entry: 2018-01-04
 - Historical entry: 2018-01-05
 - Historical entry: 2018-01-06
+- Historical entry: 2018-01-07
