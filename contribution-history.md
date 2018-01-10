@@ -6588,3 +6588,4 @@
 - Historical entry: 2018-01-07
 - Historical entry: 2018-01-08
 - Historical entry: 2018-01-09
+- Historical entry: 2018-01-10
