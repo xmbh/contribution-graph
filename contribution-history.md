@@ -6594,3 +6594,4 @@
 - Historical entry: 2018-01-13
 - Historical entry: 2018-01-14
 - Historical entry: 2018-01-15
+- Historical entry: 2018-01-16
