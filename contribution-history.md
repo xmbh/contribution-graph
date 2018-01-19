@@ -6597,3 +6597,4 @@
 - Historical entry: 2018-01-16
 - Historical entry: 2018-01-17
 - Historical entry: 2018-01-18
+- Historical entry: 2018-01-19
