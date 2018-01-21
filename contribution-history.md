@@ -6599,3 +6599,4 @@
 - Historical entry: 2018-01-18
 - Historical entry: 2018-01-19
 - Historical entry: 2018-01-20
+- Historical entry: 2018-01-21
