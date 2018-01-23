@@ -6601,3 +6601,4 @@
 - Historical entry: 2018-01-20
 - Historical entry: 2018-01-21
 - Historical entry: 2018-01-22
+- Historical entry: 2018-01-23
