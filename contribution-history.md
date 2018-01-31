@@ -6609,3 +6609,4 @@
 - Historical entry: 2018-01-28
 - Historical entry: 2018-01-29
 - Historical entry: 2018-01-30
+- Historical entry: 2018-01-31
