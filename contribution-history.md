@@ -6611,3 +6611,4 @@
 - Historical entry: 2018-01-30
 - Historical entry: 2018-01-31
 - Historical entry: 2018-02-01
+- Historical entry: 2018-02-02
