@@ -6622,3 +6622,4 @@
 - Historical entry: 2018-02-10
 - Historical entry: 2018-02-11
 - Historical entry: 2018-02-12
+- Historical entry: 2018-02-13
