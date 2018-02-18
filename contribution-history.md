@@ -6627,3 +6627,4 @@
 - Historical entry: 2018-02-15
 - Historical entry: 2018-02-16
 - Historical entry: 2018-02-17
+- Historical entry: 2018-02-18
