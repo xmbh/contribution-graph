@@ -6639,3 +6639,4 @@
 - Historical entry: 2018-02-27
 - Historical entry: 2018-02-28
 - Historical entry: 2018-03-01
+- Historical entry: 2018-03-02
