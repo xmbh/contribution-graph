@@ -6674,3 +6674,4 @@
 - Historical entry: 2018-04-03
 - Historical entry: 2018-04-04
 - Historical entry: 2018-04-05
+- Historical entry: 2018-04-06
