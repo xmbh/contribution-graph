@@ -6675,3 +6675,4 @@
 - Historical entry: 2018-04-04
 - Historical entry: 2018-04-05
 - Historical entry: 2018-04-06
+- Historical entry: 2018-04-07
