@@ -6680,3 +6680,4 @@
 - Historical entry: 2018-04-09
 - Historical entry: 2018-04-10
 - Historical entry: 2018-04-11
+- Historical entry: 2018-04-12
