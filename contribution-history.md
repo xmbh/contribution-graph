@@ -6690,3 +6690,4 @@
 - Historical entry: 2018-04-19
 - Historical entry: 2018-04-20
 - Historical entry: 2018-04-21
+- Historical entry: 2018-04-22
