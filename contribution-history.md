@@ -6701,3 +6701,4 @@
 - Historical entry: 2018-04-30
 - Historical entry: 2018-05-01
 - Historical entry: 2018-05-02
+- Historical entry: 2018-05-03
