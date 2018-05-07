@@ -6705,3 +6705,4 @@
 - Historical entry: 2018-05-04
 - Historical entry: 2018-05-05
 - Historical entry: 2018-05-06
+- Historical entry: 2018-05-07
