@@ -6723,3 +6723,4 @@
 - Historical entry: 2018-05-22
 - Historical entry: 2018-05-23
 - Historical entry: 2018-05-24
+- Historical entry: 2018-05-25
