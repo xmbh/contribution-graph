@@ -6728,3 +6728,4 @@
 - Historical entry: 2018-05-27
 - Historical entry: 2018-05-28
 - Historical entry: 2018-05-29
+- Historical entry: 2018-05-30
