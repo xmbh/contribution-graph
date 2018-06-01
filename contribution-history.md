@@ -6730,3 +6730,4 @@
 - Historical entry: 2018-05-29
 - Historical entry: 2018-05-30
 - Historical entry: 2018-05-31
+- Historical entry: 2018-06-01
