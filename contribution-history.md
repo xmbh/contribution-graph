@@ -6733,3 +6733,4 @@
 - Historical entry: 2018-06-01
 - Historical entry: 2018-06-02
 - Historical entry: 2018-06-03
+- Historical entry: 2018-06-04
