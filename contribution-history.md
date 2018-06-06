@@ -6735,3 +6735,4 @@
 - Historical entry: 2018-06-03
 - Historical entry: 2018-06-04
 - Historical entry: 2018-06-05
+- Historical entry: 2018-06-06
