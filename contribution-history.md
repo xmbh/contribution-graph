@@ -6741,3 +6741,4 @@
 - Historical entry: 2018-06-09
 - Historical entry: 2018-06-10
 - Historical entry: 2018-06-11
+- Historical entry: 2018-06-12
