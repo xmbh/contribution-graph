@@ -6748,3 +6748,4 @@
 - Historical entry: 2018-06-16
 - Historical entry: 2018-06-17
 - Historical entry: 2018-06-18
+- Historical entry: 2018-06-19
