@@ -6756,3 +6756,4 @@
 - Historical entry: 2018-06-24
 - Historical entry: 2018-06-25
 - Historical entry: 2018-06-26
+- Historical entry: 2018-06-27
