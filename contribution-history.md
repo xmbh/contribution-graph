@@ -6758,3 +6758,4 @@
 - Historical entry: 2018-06-26
 - Historical entry: 2018-06-27
 - Historical entry: 2018-06-28
+- Historical entry: 2018-06-29
