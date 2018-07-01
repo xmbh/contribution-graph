@@ -6760,3 +6760,4 @@
 - Historical entry: 2018-06-28
 - Historical entry: 2018-06-29
 - Historical entry: 2018-06-30
+- Historical entry: 2018-07-01
