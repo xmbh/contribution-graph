@@ -6768,3 +6768,4 @@
 - Historical entry: 2018-07-06
 - Historical entry: 2018-07-07
 - Historical entry: 2018-07-08
+- Historical entry: 2018-07-09
