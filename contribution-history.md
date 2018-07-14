@@ -6773,3 +6773,4 @@
 - Historical entry: 2018-07-11
 - Historical entry: 2018-07-12
 - Historical entry: 2018-07-13
+- Historical entry: 2018-07-14
