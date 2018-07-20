@@ -6779,3 +6779,4 @@
 - Historical entry: 2018-07-17
 - Historical entry: 2018-07-18
 - Historical entry: 2018-07-19
+- Historical entry: 2018-07-20
