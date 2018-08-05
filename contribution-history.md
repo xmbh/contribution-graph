@@ -6795,3 +6795,4 @@
 - Historical entry: 2018-08-02
 - Historical entry: 2018-08-03
 - Historical entry: 2018-08-04
+- Historical entry: 2018-08-05
