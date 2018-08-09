@@ -6799,3 +6799,4 @@
 - Historical entry: 2018-08-06
 - Historical entry: 2018-08-07
 - Historical entry: 2018-08-08
+- Historical entry: 2018-08-09
