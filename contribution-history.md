@@ -6807,3 +6807,4 @@
 - Historical entry: 2018-08-14
 - Historical entry: 2018-08-15
 - Historical entry: 2018-08-16
+- Historical entry: 2018-08-17
