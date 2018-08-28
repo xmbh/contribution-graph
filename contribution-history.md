@@ -6818,3 +6818,4 @@
 - Historical entry: 2018-08-25
 - Historical entry: 2018-08-26
 - Historical entry: 2018-08-27
+- Historical entry: 2018-08-28
