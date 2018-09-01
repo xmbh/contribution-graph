@@ -6822,3 +6822,4 @@
 - Historical entry: 2018-08-29
 - Historical entry: 2018-08-30
 - Historical entry: 2018-08-31
+- Historical entry: 2018-09-01
