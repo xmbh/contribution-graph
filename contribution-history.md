@@ -6825,3 +6825,4 @@
 - Historical entry: 2018-09-01
 - Historical entry: 2018-09-02
 - Historical entry: 2018-09-03
+- Historical entry: 2018-09-04
