@@ -6834,3 +6834,4 @@
 - Historical entry: 2018-09-10
 - Historical entry: 2018-09-11
 - Historical entry: 2018-09-12
+- Historical entry: 2018-09-13
