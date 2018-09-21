@@ -6842,3 +6842,4 @@
 - Historical entry: 2018-09-18
 - Historical entry: 2018-09-19
 - Historical entry: 2018-09-20
+- Historical entry: 2018-09-21
