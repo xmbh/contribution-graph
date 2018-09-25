@@ -6846,3 +6846,4 @@
 - Historical entry: 2018-09-22
 - Historical entry: 2018-09-23
 - Historical entry: 2018-09-24
+- Historical entry: 2018-09-25
