@@ -6853,3 +6853,4 @@
 - Historical entry: 2018-09-29
 - Historical entry: 2018-09-30
 - Historical entry: 2018-10-01
+- Historical entry: 2018-10-02
