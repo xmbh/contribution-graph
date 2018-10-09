@@ -6860,3 +6860,4 @@
 - Historical entry: 2018-10-06
 - Historical entry: 2018-10-07
 - Historical entry: 2018-10-08
+- Historical entry: 2018-10-09
