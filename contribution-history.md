@@ -6884,3 +6884,4 @@
 - Historical entry: 2018-10-30
 - Historical entry: 2018-10-31
 - Historical entry: 2018-11-01
+- Historical entry: 2018-11-02
