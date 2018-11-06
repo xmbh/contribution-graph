@@ -6888,3 +6888,4 @@
 - Historical entry: 2018-11-03
 - Historical entry: 2018-11-04
 - Historical entry: 2018-11-05
+- Historical entry: 2018-11-06
