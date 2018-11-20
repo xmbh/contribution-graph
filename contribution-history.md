@@ -6902,3 +6902,4 @@
 - Historical entry: 2018-11-17
 - Historical entry: 2018-11-18
 - Historical entry: 2018-11-19
+- Historical entry: 2018-11-20
