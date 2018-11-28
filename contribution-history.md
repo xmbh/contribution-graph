@@ -6910,3 +6910,4 @@
 - Historical entry: 2018-11-25
 - Historical entry: 2018-11-26
 - Historical entry: 2018-11-27
+- Historical entry: 2018-11-28
