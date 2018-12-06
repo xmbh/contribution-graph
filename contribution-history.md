@@ -6918,3 +6918,4 @@
 - Historical entry: 2018-12-03
 - Historical entry: 2018-12-04
 - Historical entry: 2018-12-05
+- Historical entry: 2018-12-06
