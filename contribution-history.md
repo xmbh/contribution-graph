@@ -6929,3 +6929,4 @@
 - Historical entry: 2018-12-14
 - Historical entry: 2018-12-15
 - Historical entry: 2018-12-16
+- Historical entry: 2018-12-17
