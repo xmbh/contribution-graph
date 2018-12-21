@@ -6933,3 +6933,4 @@
 - Historical entry: 2018-12-18
 - Historical entry: 2018-12-19
 - Historical entry: 2018-12-20
+- Historical entry: 2018-12-21
