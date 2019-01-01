@@ -6944,3 +6944,4 @@
 - Historical entry: 2018-12-29
 - Historical entry: 2018-12-30
 - Historical entry: 2018-12-31
+- Historical entry: 2019-01-01
