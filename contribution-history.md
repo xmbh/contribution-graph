@@ -6950,3 +6950,4 @@
 - Historical entry: 2019-01-04
 - Historical entry: 2019-01-05
 - Historical entry: 2019-01-06
+- Historical entry: 2019-01-07
