@@ -6953,3 +6953,4 @@
 - Historical entry: 2019-01-07
 - Historical entry: 2019-01-08
 - Historical entry: 2019-01-09
+- Historical entry: 2019-01-10
