@@ -6958,3 +6958,4 @@
 - Historical entry: 2019-01-12
 - Historical entry: 2019-01-13
 - Historical entry: 2019-01-14
+- Historical entry: 2019-01-15
