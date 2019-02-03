@@ -6977,3 +6977,4 @@
 - Historical entry: 2019-01-31
 - Historical entry: 2019-02-01
 - Historical entry: 2019-02-02
+- Historical entry: 2019-02-03
