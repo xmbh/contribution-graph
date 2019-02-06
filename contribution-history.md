@@ -6980,3 +6980,4 @@
 - Historical entry: 2019-02-03
 - Historical entry: 2019-02-04
 - Historical entry: 2019-02-05
+- Historical entry: 2019-02-06
