@@ -6983,3 +6983,4 @@
 - Historical entry: 2019-02-06
 - Historical entry: 2019-02-07
 - Historical entry: 2019-02-08
+- Historical entry: 2019-02-09
