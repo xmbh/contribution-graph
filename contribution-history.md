@@ -6990,3 +6990,4 @@
 - Historical entry: 2019-02-13
 - Historical entry: 2019-02-14
 - Historical entry: 2019-02-15
+- Historical entry: 2019-02-16
