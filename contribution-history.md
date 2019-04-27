@@ -7060,3 +7060,4 @@
 - Historical entry: 2019-04-24
 - Historical entry: 2019-04-25
 - Historical entry: 2019-04-26
+- Historical entry: 2019-04-27
