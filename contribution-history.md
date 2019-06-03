@@ -7097,3 +7097,4 @@
 - Historical entry: 2019-05-31
 - Historical entry: 2019-06-01
 - Historical entry: 2019-06-02
+- Historical entry: 2019-06-03
