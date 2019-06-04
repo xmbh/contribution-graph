@@ -7098,3 +7098,4 @@
 - Historical entry: 2019-06-01
 - Historical entry: 2019-06-02
 - Historical entry: 2019-06-03
+- Historical entry: 2019-06-04
