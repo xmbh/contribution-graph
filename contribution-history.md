@@ -7167,3 +7167,4 @@
 - Historical entry: 2019-08-09
 - Historical entry: 2019-08-10
 - Historical entry: 2019-08-11
+- Historical entry: 2019-08-12
