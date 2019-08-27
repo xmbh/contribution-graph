@@ -7182,3 +7182,4 @@
 - Historical entry: 2019-08-24
 - Historical entry: 2019-08-25
 - Historical entry: 2019-08-26
+- Historical entry: 2019-08-27
