@@ -7254,3 +7254,4 @@
 - Historical entry: 2019-11-04
 - Historical entry: 2019-11-05
 - Historical entry: 2019-11-06
+- Historical entry: 2019-11-07
