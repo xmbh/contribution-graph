@@ -7255,3 +7255,4 @@
 - Historical entry: 2019-11-05
 - Historical entry: 2019-11-06
 - Historical entry: 2019-11-07
+- Historical entry: 2019-11-08
