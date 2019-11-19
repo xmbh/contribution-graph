@@ -7266,3 +7266,4 @@
 - Historical entry: 2019-11-16
 - Historical entry: 2019-11-17
 - Historical entry: 2019-11-18
+- Historical entry: 2019-11-19
