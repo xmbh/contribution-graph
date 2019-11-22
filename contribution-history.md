@@ -7269,3 +7269,4 @@
 - Historical entry: 2019-11-19
 - Historical entry: 2019-11-20
 - Historical entry: 2019-11-21
+- Historical entry: 2019-11-22
