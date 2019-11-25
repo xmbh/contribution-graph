@@ -7272,3 +7272,4 @@
 - Historical entry: 2019-11-22
 - Historical entry: 2019-11-23
 - Historical entry: 2019-11-24
+- Historical entry: 2019-11-25
