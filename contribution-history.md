@@ -7275,3 +7275,4 @@
 - Historical entry: 2019-11-25
 - Historical entry: 2019-11-26
 - Historical entry: 2019-11-27
+- Historical entry: 2019-11-28
