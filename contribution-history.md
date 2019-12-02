@@ -7279,3 +7279,4 @@
 - Historical entry: 2019-11-29
 - Historical entry: 2019-11-30
 - Historical entry: 2019-12-01
+- Historical entry: 2019-12-02
