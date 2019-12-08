@@ -7285,3 +7285,4 @@
 - Historical entry: 2019-12-05
 - Historical entry: 2019-12-06
 - Historical entry: 2019-12-07
+- Historical entry: 2019-12-08
