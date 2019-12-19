@@ -7296,3 +7296,4 @@
 - Historical entry: 2019-12-16
 - Historical entry: 2019-12-17
 - Historical entry: 2019-12-18
+- Historical entry: 2019-12-19
