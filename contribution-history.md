@@ -7304,3 +7304,4 @@
 - Historical entry: 2019-12-24
 - Historical entry: 2019-12-25
 - Historical entry: 2019-12-26
+- Historical entry: 2019-12-27
