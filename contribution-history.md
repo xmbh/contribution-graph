@@ -7311,3 +7311,4 @@
 - Historical entry: 2019-12-31
 - Historical entry: 2020-01-01
 - Historical entry: 2020-01-02
+- Historical entry: 2020-01-03
