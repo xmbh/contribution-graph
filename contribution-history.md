@@ -7315,3 +7315,4 @@
 - Historical entry: 2020-01-04
 - Historical entry: 2020-01-05
 - Historical entry: 2020-01-06
+- Historical entry: 2020-01-07
