@@ -7319,3 +7319,4 @@
 - Historical entry: 2020-01-08
 - Historical entry: 2020-01-09
 - Historical entry: 2020-01-10
+- Historical entry: 2020-01-11
