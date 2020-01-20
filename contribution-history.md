@@ -7328,3 +7328,4 @@
 - Historical entry: 2020-01-17
 - Historical entry: 2020-01-18
 - Historical entry: 2020-01-19
+- Historical entry: 2020-01-20
