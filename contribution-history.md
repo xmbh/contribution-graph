@@ -7335,3 +7335,4 @@
 - Historical entry: 2020-01-24
 - Historical entry: 2020-01-25
 - Historical entry: 2020-01-26
+- Historical entry: 2020-01-27
