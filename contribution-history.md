@@ -7343,3 +7343,4 @@
 - Historical entry: 2020-02-01
 - Historical entry: 2020-02-02
 - Historical entry: 2020-02-03
+- Historical entry: 2020-02-04
