@@ -7361,3 +7361,4 @@
 - Historical entry: 2020-02-19
 - Historical entry: 2020-02-20
 - Historical entry: 2020-02-21
+- Historical entry: 2020-02-22
