@@ -7374,3 +7374,4 @@
 - Historical entry: 2020-03-03
 - Historical entry: 2020-03-04
 - Historical entry: 2020-03-05
+- Historical entry: 2020-03-06
