@@ -7381,3 +7381,4 @@
 - Historical entry: 2020-03-10
 - Historical entry: 2020-03-11
 - Historical entry: 2020-03-12
+- Historical entry: 2020-03-13
