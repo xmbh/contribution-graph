@@ -7385,3 +7385,4 @@
 - Historical entry: 2020-03-14
 - Historical entry: 2020-03-15
 - Historical entry: 2020-03-16
+- Historical entry: 2020-03-17
