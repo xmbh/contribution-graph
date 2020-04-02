@@ -7401,3 +7401,4 @@
 - Historical entry: 2020-03-30
 - Historical entry: 2020-03-31
 - Historical entry: 2020-04-01
+- Historical entry: 2020-04-02
