@@ -7406,3 +7406,4 @@
 - Historical entry: 2020-04-04
 - Historical entry: 2020-04-05
 - Historical entry: 2020-04-06
+- Historical entry: 2020-04-07
