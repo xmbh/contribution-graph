@@ -7419,3 +7419,4 @@
 - Historical entry: 2020-04-17
 - Historical entry: 2020-04-18
 - Historical entry: 2020-04-19
+- Historical entry: 2020-04-20
