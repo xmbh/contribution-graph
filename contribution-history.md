@@ -7422,3 +7422,4 @@
 - Historical entry: 2020-04-20
 - Historical entry: 2020-04-21
 - Historical entry: 2020-04-22
+- Historical entry: 2020-04-23
