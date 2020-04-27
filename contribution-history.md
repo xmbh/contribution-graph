@@ -7426,3 +7426,4 @@
 - Historical entry: 2020-04-24
 - Historical entry: 2020-04-25
 - Historical entry: 2020-04-26
+- Historical entry: 2020-04-27
