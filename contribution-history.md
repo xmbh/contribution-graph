@@ -7432,3 +7432,4 @@
 - Historical entry: 2020-04-30
 - Historical entry: 2020-05-01
 - Historical entry: 2020-05-02
+- Historical entry: 2020-05-03
