@@ -7434,3 +7434,4 @@
 - Historical entry: 2020-05-02
 - Historical entry: 2020-05-03
 - Historical entry: 2020-05-04
+- Historical entry: 2020-05-05
