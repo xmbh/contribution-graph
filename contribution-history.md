@@ -7441,3 +7441,4 @@
 - Historical entry: 2020-05-09
 - Historical entry: 2020-05-10
 - Historical entry: 2020-05-11
+- Historical entry: 2020-05-12
