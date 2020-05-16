@@ -7445,3 +7445,4 @@
 - Historical entry: 2020-05-13
 - Historical entry: 2020-05-14
 - Historical entry: 2020-05-15
+- Historical entry: 2020-05-16
