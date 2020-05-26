@@ -7455,3 +7455,4 @@
 - Historical entry: 2020-05-23
 - Historical entry: 2020-05-24
 - Historical entry: 2020-05-25
+- Historical entry: 2020-05-26
