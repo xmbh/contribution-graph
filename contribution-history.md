@@ -7469,3 +7469,4 @@
 - Historical entry: 2020-06-06
 - Historical entry: 2020-06-07
 - Historical entry: 2020-06-08
+- Historical entry: 2020-06-09
