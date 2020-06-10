@@ -7470,3 +7470,4 @@
 - Historical entry: 2020-06-07
 - Historical entry: 2020-06-08
 - Historical entry: 2020-06-09
+- Historical entry: 2020-06-10
