@@ -7477,3 +7477,4 @@
 - Historical entry: 2020-06-14
 - Historical entry: 2020-06-15
 - Historical entry: 2020-06-16
+- Historical entry: 2020-06-17
