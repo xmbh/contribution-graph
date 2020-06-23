@@ -7483,3 +7483,4 @@
 - Historical entry: 2020-06-20
 - Historical entry: 2020-06-21
 - Historical entry: 2020-06-22
+- Historical entry: 2020-06-23
