@@ -7485,3 +7485,4 @@
 - Historical entry: 2020-06-22
 - Historical entry: 2020-06-23
 - Historical entry: 2020-06-24
+- Historical entry: 2020-06-25
