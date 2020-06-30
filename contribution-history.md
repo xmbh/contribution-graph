@@ -7490,3 +7490,4 @@
 - Historical entry: 2020-06-27
 - Historical entry: 2020-06-28
 - Historical entry: 2020-06-29
+- Historical entry: 2020-06-30
