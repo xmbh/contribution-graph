@@ -7492,3 +7492,4 @@
 - Historical entry: 2020-06-29
 - Historical entry: 2020-06-30
 - Historical entry: 2020-07-01
+- Historical entry: 2020-07-02
