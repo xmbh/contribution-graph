@@ -7495,3 +7495,4 @@
 - Historical entry: 2020-07-02
 - Historical entry: 2020-07-03
 - Historical entry: 2020-07-04
+- Historical entry: 2020-07-05
