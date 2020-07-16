@@ -7506,3 +7506,4 @@
 - Historical entry: 2020-07-13
 - Historical entry: 2020-07-14
 - Historical entry: 2020-07-15
+- Historical entry: 2020-07-16
