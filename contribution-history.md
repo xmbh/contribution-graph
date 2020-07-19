@@ -7509,3 +7509,4 @@
 - Historical entry: 2020-07-16
 - Historical entry: 2020-07-17
 - Historical entry: 2020-07-18
+- Historical entry: 2020-07-19
