@@ -7523,3 +7523,4 @@
 - Historical entry: 2020-07-30
 - Historical entry: 2020-07-31
 - Historical entry: 2020-08-01
+- Historical entry: 2020-08-02
