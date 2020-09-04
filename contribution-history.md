@@ -7556,3 +7556,4 @@
 - Historical entry: 2020-09-01
 - Historical entry: 2020-09-02
 - Historical entry: 2020-09-03
+- Historical entry: 2020-09-04
