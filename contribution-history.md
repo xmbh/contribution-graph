@@ -7603,3 +7603,4 @@
 - Historical entry: 2020-10-18
 - Historical entry: 2020-10-19
 - Historical entry: 2020-10-20
+- Historical entry: 2020-10-21
