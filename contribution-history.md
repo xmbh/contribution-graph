@@ -7623,3 +7623,4 @@
 - Historical entry: 2020-11-07
 - Historical entry: 2020-11-08
 - Historical entry: 2020-11-09
+- Historical entry: 2020-11-10
