@@ -7626,3 +7626,4 @@
 - Historical entry: 2020-11-10
 - Historical entry: 2020-11-11
 - Historical entry: 2020-11-12
+- Historical entry: 2020-11-13
