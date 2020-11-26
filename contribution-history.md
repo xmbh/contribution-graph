@@ -7639,3 +7639,4 @@
 - Historical entry: 2020-11-23
 - Historical entry: 2020-11-24
 - Historical entry: 2020-11-25
+- Historical entry: 2020-11-26
