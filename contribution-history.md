@@ -7653,3 +7653,4 @@
 - Historical entry: 2020-12-07
 - Historical entry: 2020-12-08
 - Historical entry: 2020-12-09
+- Historical entry: 2020-12-10
