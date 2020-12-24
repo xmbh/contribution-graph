@@ -7667,3 +7667,4 @@
 - Historical entry: 2020-12-21
 - Historical entry: 2020-12-22
 - Historical entry: 2020-12-23
+- Historical entry: 2020-12-24
