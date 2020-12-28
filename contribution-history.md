@@ -7671,3 +7671,4 @@
 - Historical entry: 2020-12-25
 - Historical entry: 2020-12-26
 - Historical entry: 2020-12-27
+- Historical entry: 2020-12-28
