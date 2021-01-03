@@ -7677,3 +7677,4 @@
 - Historical entry: 2020-12-31
 - Historical entry: 2021-01-01
 - Historical entry: 2021-01-02
+- Historical entry: 2021-01-03
