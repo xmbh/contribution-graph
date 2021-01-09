@@ -7683,3 +7683,4 @@
 - Historical entry: 2021-01-06
 - Historical entry: 2021-01-07
 - Historical entry: 2021-01-08
+- Historical entry: 2021-01-09
