@@ -7707,3 +7707,4 @@
 - Historical entry: 2021-01-30
 - Historical entry: 2021-01-31
 - Historical entry: 2021-02-01
+- Historical entry: 2021-02-02
