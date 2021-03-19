@@ -7752,3 +7752,4 @@
 - Historical entry: 2021-03-16
 - Historical entry: 2021-03-17
 - Historical entry: 2021-03-18
+- Historical entry: 2021-03-19
