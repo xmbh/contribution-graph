@@ -7827,3 +7827,4 @@
 - Historical entry: 2021-05-30
 - Historical entry: 2021-05-31
 - Historical entry: 2021-06-01
+- Historical entry: 2021-06-02
