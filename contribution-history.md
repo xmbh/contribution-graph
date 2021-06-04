@@ -7829,3 +7829,4 @@
 - Historical entry: 2021-06-01
 - Historical entry: 2021-06-02
 - Historical entry: 2021-06-03
+- Historical entry: 2021-06-04
