@@ -7830,3 +7830,4 @@
 - Historical entry: 2021-06-02
 - Historical entry: 2021-06-03
 - Historical entry: 2021-06-04
+- Historical entry: 2021-06-05
