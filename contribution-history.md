@@ -7834,3 +7834,4 @@
 - Historical entry: 2021-06-06
 - Historical entry: 2021-06-07
 - Historical entry: 2021-06-08
+- Historical entry: 2021-06-09
