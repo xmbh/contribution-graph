@@ -7838,3 +7838,4 @@
 - Historical entry: 2021-06-10
 - Historical entry: 2021-06-11
 - Historical entry: 2021-06-12
+- Historical entry: 2021-06-13
