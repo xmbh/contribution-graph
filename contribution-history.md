@@ -7842,3 +7842,4 @@
 - Historical entry: 2021-06-14
 - Historical entry: 2021-06-15
 - Historical entry: 2021-06-16
+- Historical entry: 2021-06-17
