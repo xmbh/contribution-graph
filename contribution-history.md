@@ -7845,3 +7845,4 @@
 - Historical entry: 2021-06-17
 - Historical entry: 2021-06-18
 - Historical entry: 2021-06-19
+- Historical entry: 2021-06-20
