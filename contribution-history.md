@@ -7856,3 +7856,4 @@
 - Historical entry: 2021-06-28
 - Historical entry: 2021-06-29
 - Historical entry: 2021-06-30
+- Historical entry: 2021-07-01
