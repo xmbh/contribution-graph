@@ -7868,3 +7868,4 @@
 - Historical entry: 2021-07-10
 - Historical entry: 2021-07-11
 - Historical entry: 2021-07-12
+- Historical entry: 2021-07-13
