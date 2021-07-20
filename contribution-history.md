@@ -7875,3 +7875,4 @@
 - Historical entry: 2021-07-17
 - Historical entry: 2021-07-18
 - Historical entry: 2021-07-19
+- Historical entry: 2021-07-20
