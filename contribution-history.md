@@ -7888,3 +7888,4 @@
 - Historical entry: 2021-07-30
 - Historical entry: 2021-07-31
 - Historical entry: 2021-08-01
+- Historical entry: 2021-08-02
