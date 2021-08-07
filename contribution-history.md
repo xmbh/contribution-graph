@@ -7893,3 +7893,4 @@
 - Historical entry: 2021-08-04
 - Historical entry: 2021-08-05
 - Historical entry: 2021-08-06
+- Historical entry: 2021-08-07
