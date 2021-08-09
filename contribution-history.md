@@ -7895,3 +7895,4 @@
 - Historical entry: 2021-08-06
 - Historical entry: 2021-08-07
 - Historical entry: 2021-08-08
+- Historical entry: 2021-08-09
