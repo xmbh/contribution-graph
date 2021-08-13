@@ -7899,3 +7899,4 @@
 - Historical entry: 2021-08-10
 - Historical entry: 2021-08-11
 - Historical entry: 2021-08-12
+- Historical entry: 2021-08-13
