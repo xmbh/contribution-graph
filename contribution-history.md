@@ -7913,3 +7913,4 @@
 - Historical entry: 2021-08-24
 - Historical entry: 2021-08-25
 - Historical entry: 2021-08-26
+- Historical entry: 2021-08-27
