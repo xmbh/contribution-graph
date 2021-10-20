@@ -7967,3 +7967,4 @@
 - Historical entry: 2021-10-17
 - Historical entry: 2021-10-18
 - Historical entry: 2021-10-19
+- Historical entry: 2021-10-20
