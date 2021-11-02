@@ -7980,3 +7980,4 @@
 - Historical entry: 2021-10-30
 - Historical entry: 2021-10-31
 - Historical entry: 2021-11-01
+- Historical entry: 2021-11-02
