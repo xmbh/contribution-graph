@@ -7987,3 +7987,4 @@
 - Historical entry: 2021-11-06
 - Historical entry: 2021-11-07
 - Historical entry: 2021-11-08
+- Historical entry: 2021-11-09
