@@ -8004,3 +8004,4 @@
 - Historical entry: 2021-11-23
 - Historical entry: 2021-11-24
 - Historical entry: 2021-11-25
+- Historical entry: 2021-11-26
