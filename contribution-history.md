@@ -8009,3 +8009,4 @@
 - Historical entry: 2021-11-28
 - Historical entry: 2021-11-29
 - Historical entry: 2021-11-30
+- Historical entry: 2021-12-01
