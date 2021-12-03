@@ -8011,3 +8011,4 @@
 - Historical entry: 2021-11-30
 - Historical entry: 2021-12-01
 - Historical entry: 2021-12-02
+- Historical entry: 2021-12-03
