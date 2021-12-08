@@ -8016,3 +8016,4 @@
 - Historical entry: 2021-12-05
 - Historical entry: 2021-12-06
 - Historical entry: 2021-12-07
+- Historical entry: 2021-12-08
