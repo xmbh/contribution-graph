@@ -8020,3 +8020,4 @@
 - Historical entry: 2021-12-09
 - Historical entry: 2021-12-10
 - Historical entry: 2021-12-11
+- Historical entry: 2021-12-12
