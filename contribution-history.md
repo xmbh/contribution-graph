@@ -8039,3 +8039,4 @@
 - Historical entry: 2021-12-28
 - Historical entry: 2021-12-29
 - Historical entry: 2021-12-30
+- Historical entry: 2021-12-31
