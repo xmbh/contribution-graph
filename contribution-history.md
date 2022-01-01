@@ -8040,3 +8040,4 @@
 - Historical entry: 2021-12-29
 - Historical entry: 2021-12-30
 - Historical entry: 2021-12-31
+- Historical entry: 2022-01-01
