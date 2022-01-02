@@ -8041,3 +8041,4 @@
 - Historical entry: 2021-12-30
 - Historical entry: 2021-12-31
 - Historical entry: 2022-01-01
+- Historical entry: 2022-01-02
