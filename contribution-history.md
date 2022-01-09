@@ -8048,3 +8048,4 @@
 - Historical entry: 2022-01-06
 - Historical entry: 2022-01-07
 - Historical entry: 2022-01-08
+- Historical entry: 2022-01-09
