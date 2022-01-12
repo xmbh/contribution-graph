@@ -8051,3 +8051,4 @@
 - Historical entry: 2022-01-09
 - Historical entry: 2022-01-10
 - Historical entry: 2022-01-11
+- Historical entry: 2022-01-12
