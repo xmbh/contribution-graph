@@ -8059,3 +8059,4 @@
 - Historical entry: 2022-01-17
 - Historical entry: 2022-01-18
 - Historical entry: 2022-01-19
+- Historical entry: 2022-01-20
