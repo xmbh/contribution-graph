@@ -8061,3 +8061,4 @@
 - Historical entry: 2022-01-19
 - Historical entry: 2022-01-20
 - Historical entry: 2022-01-21
+- Historical entry: 2022-01-22
