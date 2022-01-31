@@ -8070,3 +8070,4 @@
 - Historical entry: 2022-01-28
 - Historical entry: 2022-01-29
 - Historical entry: 2022-01-30
+- Historical entry: 2022-01-31
