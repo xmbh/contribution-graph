@@ -8076,3 +8076,4 @@
 - Historical entry: 2022-02-03
 - Historical entry: 2022-02-04
 - Historical entry: 2022-02-05
+- Historical entry: 2022-02-06
