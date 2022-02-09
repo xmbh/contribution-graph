@@ -8079,3 +8079,4 @@
 - Historical entry: 2022-02-06
 - Historical entry: 2022-02-07
 - Historical entry: 2022-02-08
+- Historical entry: 2022-02-09
