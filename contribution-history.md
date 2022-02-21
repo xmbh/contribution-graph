@@ -8091,3 +8091,4 @@
 - Historical entry: 2022-02-18
 - Historical entry: 2022-02-19
 - Historical entry: 2022-02-20
+- Historical entry: 2022-02-21
