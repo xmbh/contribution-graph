@@ -8099,3 +8099,4 @@
 - Historical entry: 2022-02-26
 - Historical entry: 2022-02-27
 - Historical entry: 2022-02-28
+- Historical entry: 2022-03-01
