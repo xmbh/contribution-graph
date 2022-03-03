@@ -8101,3 +8101,4 @@
 - Historical entry: 2022-02-28
 - Historical entry: 2022-03-01
 - Historical entry: 2022-03-02
+- Historical entry: 2022-03-03
