@@ -8178,3 +8178,4 @@
 - Historical entry: 2022-05-16
 - Historical entry: 2022-05-17
 - Historical entry: 2022-05-18
+- Historical entry: 2022-05-19
