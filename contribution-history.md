@@ -8190,3 +8190,4 @@
 - Historical entry: 2022-05-28
 - Historical entry: 2022-05-29
 - Historical entry: 2022-05-30
+- Historical entry: 2022-05-31
