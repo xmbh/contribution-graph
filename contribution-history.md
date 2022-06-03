@@ -8193,3 +8193,4 @@
 - Historical entry: 2022-05-31
 - Historical entry: 2022-06-01
 - Historical entry: 2022-06-02
+- Historical entry: 2022-06-03
