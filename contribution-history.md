@@ -8195,3 +8195,4 @@
 - Historical entry: 2022-06-02
 - Historical entry: 2022-06-03
 - Historical entry: 2022-06-04
+- Historical entry: 2022-06-05
