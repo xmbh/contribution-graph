@@ -8199,3 +8199,4 @@
 - Historical entry: 2022-06-06
 - Historical entry: 2022-06-07
 - Historical entry: 2022-06-08
+- Historical entry: 2022-06-09
