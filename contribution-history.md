@@ -8211,3 +8211,4 @@
 - Historical entry: 2022-06-18
 - Historical entry: 2022-06-19
 - Historical entry: 2022-06-20
+- Historical entry: 2022-06-21
