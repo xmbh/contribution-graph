@@ -8218,3 +8218,4 @@
 - Historical entry: 2022-06-25
 - Historical entry: 2022-06-26
 - Historical entry: 2022-06-27
+- Historical entry: 2022-06-28
