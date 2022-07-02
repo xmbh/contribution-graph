@@ -8222,3 +8222,4 @@
 - Historical entry: 2022-06-29
 - Historical entry: 2022-06-30
 - Historical entry: 2022-07-01
+- Historical entry: 2022-07-02
