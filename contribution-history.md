@@ -8230,3 +8230,4 @@
 - Historical entry: 2022-07-07
 - Historical entry: 2022-07-08
 - Historical entry: 2022-07-09
+- Historical entry: 2022-07-10
