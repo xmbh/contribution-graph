@@ -8240,3 +8240,4 @@
 - Historical entry: 2022-07-17
 - Historical entry: 2022-07-18
 - Historical entry: 2022-07-19
+- Historical entry: 2022-07-20
