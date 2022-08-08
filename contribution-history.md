@@ -8259,3 +8259,4 @@
 - Historical entry: 2022-08-05
 - Historical entry: 2022-08-06
 - Historical entry: 2022-08-07
+- Historical entry: 2022-08-08
