@@ -8268,3 +8268,4 @@
 - Historical entry: 2022-08-14
 - Historical entry: 2022-08-15
 - Historical entry: 2022-08-16
+- Historical entry: 2022-08-17
