@@ -8284,3 +8284,4 @@
 - Historical entry: 2022-08-30
 - Historical entry: 2022-08-31
 - Historical entry: 2022-09-01
+- Historical entry: 2022-09-02
