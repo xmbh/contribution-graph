@@ -8302,3 +8302,4 @@
 - Historical entry: 2022-09-17
 - Historical entry: 2022-09-18
 - Historical entry: 2022-09-19
+- Historical entry: 2022-09-20
