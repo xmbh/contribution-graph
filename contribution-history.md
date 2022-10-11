@@ -8323,3 +8323,4 @@
 - Historical entry: 2022-10-08
 - Historical entry: 2022-10-09
 - Historical entry: 2022-10-10
+- Historical entry: 2022-10-11
