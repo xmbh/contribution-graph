@@ -8363,3 +8363,4 @@
 - Historical entry: 2022-11-17
 - Historical entry: 2022-11-18
 - Historical entry: 2022-11-19
+- Historical entry: 2022-11-20
