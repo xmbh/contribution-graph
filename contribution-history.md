@@ -8365,3 +8365,4 @@
 - Historical entry: 2022-11-19
 - Historical entry: 2022-11-20
 - Historical entry: 2022-11-21
+- Historical entry: 2022-11-22
