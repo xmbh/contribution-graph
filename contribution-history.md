@@ -8370,3 +8370,4 @@
 - Historical entry: 2022-11-24
 - Historical entry: 2022-11-25
 - Historical entry: 2022-11-26
+- Historical entry: 2022-11-27
