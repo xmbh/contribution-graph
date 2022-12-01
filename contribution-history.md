@@ -8374,3 +8374,4 @@
 - Historical entry: 2022-11-28
 - Historical entry: 2022-11-29
 - Historical entry: 2022-11-30
+- Historical entry: 2022-12-01
