@@ -8375,3 +8375,4 @@
 - Historical entry: 2022-11-29
 - Historical entry: 2022-11-30
 - Historical entry: 2022-12-01
+- Historical entry: 2022-12-02
