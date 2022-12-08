@@ -8381,3 +8381,4 @@
 - Historical entry: 2022-12-05
 - Historical entry: 2022-12-06
 - Historical entry: 2022-12-07
+- Historical entry: 2022-12-08
