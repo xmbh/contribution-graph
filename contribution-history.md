@@ -8395,3 +8395,4 @@
 - Historical entry: 2022-12-19
 - Historical entry: 2022-12-20
 - Historical entry: 2022-12-21
+- Historical entry: 2022-12-22
