@@ -8416,3 +8416,4 @@
 - Historical entry: 2023-01-09
 - Historical entry: 2023-01-10
 - Historical entry: 2023-01-11
+- Historical entry: 2023-01-12
