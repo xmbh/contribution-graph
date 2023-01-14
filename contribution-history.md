@@ -8418,3 +8418,4 @@
 - Historical entry: 2023-01-11
 - Historical entry: 2023-01-12
 - Historical entry: 2023-01-13
+- Historical entry: 2023-01-14
