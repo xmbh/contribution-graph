@@ -8426,3 +8426,4 @@
 - Historical entry: 2023-01-19
 - Historical entry: 2023-01-20
 - Historical entry: 2023-01-21
+- Historical entry: 2023-01-22
