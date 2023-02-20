@@ -8455,3 +8455,4 @@
 - Historical entry: 2023-02-17
 - Historical entry: 2023-02-18
 - Historical entry: 2023-02-19
+- Historical entry: 2023-02-20
