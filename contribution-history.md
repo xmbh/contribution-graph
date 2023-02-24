@@ -8459,3 +8459,4 @@
 - Historical entry: 2023-02-21
 - Historical entry: 2023-02-22
 - Historical entry: 2023-02-23
+- Historical entry: 2023-02-24
