@@ -8498,3 +8498,4 @@
 - Historical entry: 2023-04-01
 - Historical entry: 2023-04-02
 - Historical entry: 2023-04-03
+- Historical entry: 2023-04-04
