@@ -8549,3 +8549,4 @@
 - Historical entry: 2023-05-22
 - Historical entry: 2023-05-23
 - Historical entry: 2023-05-24
+- Historical entry: 2023-05-25
