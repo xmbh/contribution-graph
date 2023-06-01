@@ -8556,3 +8556,4 @@
 - Historical entry: 2023-05-29
 - Historical entry: 2023-05-30
 - Historical entry: 2023-05-31
+- Historical entry: 2023-06-01
