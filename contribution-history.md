@@ -8572,3 +8572,4 @@
 - Historical entry: 2023-06-14
 - Historical entry: 2023-06-15
 - Historical entry: 2023-06-16
+- Historical entry: 2023-06-17
