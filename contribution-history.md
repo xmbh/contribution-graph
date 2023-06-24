@@ -8579,3 +8579,4 @@
 - Historical entry: 2023-06-21
 - Historical entry: 2023-06-22
 - Historical entry: 2023-06-23
+- Historical entry: 2023-06-24
