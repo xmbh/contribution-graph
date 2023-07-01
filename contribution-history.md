@@ -8586,3 +8586,4 @@
 - Historical entry: 2023-06-28
 - Historical entry: 2023-06-29
 - Historical entry: 2023-06-30
+- Historical entry: 2023-07-01
