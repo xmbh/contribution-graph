@@ -8595,3 +8595,4 @@
 - Historical entry: 2023-07-07
 - Historical entry: 2023-07-08
 - Historical entry: 2023-07-09
+- Historical entry: 2023-07-10
