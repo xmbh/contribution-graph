@@ -8602,3 +8602,4 @@
 - Historical entry: 2023-07-14
 - Historical entry: 2023-07-15
 - Historical entry: 2023-07-16
+- Historical entry: 2023-07-17
