@@ -8624,3 +8624,4 @@
 - Historical entry: 2023-08-05
 - Historical entry: 2023-08-06
 - Historical entry: 2023-08-07
+- Historical entry: 2023-08-08
