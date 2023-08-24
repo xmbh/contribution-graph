@@ -8640,3 +8640,4 @@
 - Historical entry: 2023-08-21
 - Historical entry: 2023-08-22
 - Historical entry: 2023-08-23
+- Historical entry: 2023-08-24
