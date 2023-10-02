@@ -8679,3 +8679,4 @@
 - Historical entry: 2023-09-29
 - Historical entry: 2023-09-30
 - Historical entry: 2023-10-01
+- Historical entry: 2023-10-02
