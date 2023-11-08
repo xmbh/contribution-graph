@@ -8716,3 +8716,4 @@
 - Historical entry: 2023-11-05
 - Historical entry: 2023-11-06
 - Historical entry: 2023-11-07
+- Historical entry: 2023-11-08
