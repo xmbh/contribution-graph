@@ -8725,3 +8725,4 @@
 - Historical entry: 2023-11-14
 - Historical entry: 2023-11-15
 - Historical entry: 2023-11-16
+- Historical entry: 2023-11-17
