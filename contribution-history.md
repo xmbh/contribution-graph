@@ -8740,3 +8740,4 @@
 - Historical entry: 2023-11-29
 - Historical entry: 2023-11-30
 - Historical entry: 2023-12-01
+- Historical entry: 2023-12-02
