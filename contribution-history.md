@@ -8748,3 +8748,4 @@
 - Historical entry: 2023-12-07
 - Historical entry: 2023-12-08
 - Historical entry: 2023-12-09
+- Historical entry: 2023-12-10
