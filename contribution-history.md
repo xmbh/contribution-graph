@@ -8755,3 +8755,4 @@
 - Historical entry: 2023-12-14
 - Historical entry: 2023-12-15
 - Historical entry: 2023-12-16
+- Historical entry: 2023-12-17
