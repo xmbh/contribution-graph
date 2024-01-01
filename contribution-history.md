@@ -8770,3 +8770,4 @@
 - Historical entry: 2023-12-29
 - Historical entry: 2023-12-30
 - Historical entry: 2023-12-31
+- Historical entry: 2024-01-01
