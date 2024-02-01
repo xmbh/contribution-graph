@@ -8801,3 +8801,4 @@
 - Historical entry: 2024-01-29
 - Historical entry: 2024-01-30
 - Historical entry: 2024-01-31
+- Historical entry: 2024-02-01
