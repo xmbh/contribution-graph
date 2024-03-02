@@ -8831,3 +8831,4 @@
 - Historical entry: 2024-02-28
 - Historical entry: 2024-02-29
 - Historical entry: 2024-03-01
+- Historical entry: 2024-03-02
