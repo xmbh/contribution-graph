@@ -8868,3 +8868,4 @@
 - Historical entry: 2024-04-05
 - Historical entry: 2024-04-06
 - Historical entry: 2024-04-07
+- Historical entry: 2024-04-08
