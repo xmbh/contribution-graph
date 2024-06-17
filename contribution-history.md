@@ -8938,3 +8938,4 @@
 - Historical entry: 2024-06-14
 - Historical entry: 2024-06-15
 - Historical entry: 2024-06-16
+- Historical entry: 2024-06-17
