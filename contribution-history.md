@@ -8942,3 +8942,4 @@
 - Historical entry: 2024-06-18
 - Historical entry: 2024-06-19
 - Historical entry: 2024-06-20
+- Historical entry: 2024-06-21
