@@ -8952,3 +8952,4 @@
 - Historical entry: 2024-06-28
 - Historical entry: 2024-06-29
 - Historical entry: 2024-06-30
+- Historical entry: 2024-07-01
