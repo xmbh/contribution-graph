@@ -8983,3 +8983,4 @@
 - Historical entry: 2024-07-29
 - Historical entry: 2024-07-30
 - Historical entry: 2024-07-31
+- Historical entry: 2024-08-01
