@@ -9168,3 +9168,4 @@
 - Historical entry: 2025-01-30
 - Historical entry: 2025-01-31
 - Historical entry: 2025-02-01
+- Historical entry: 2025-02-02
