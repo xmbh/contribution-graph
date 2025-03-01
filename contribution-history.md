@@ -9195,3 +9195,4 @@
 - Historical entry: 2025-02-26
 - Historical entry: 2025-02-27
 - Historical entry: 2025-02-28
+- Historical entry: 2025-03-01
