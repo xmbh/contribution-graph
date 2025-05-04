@@ -9259,3 +9259,4 @@
 - Historical entry: 2025-05-01
 - Historical entry: 2025-05-02
 - Historical entry: 2025-05-03
+- Historical entry: 2025-05-04
