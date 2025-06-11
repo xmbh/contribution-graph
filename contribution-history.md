@@ -9297,3 +9297,4 @@
 - Historical entry: 2025-06-08
 - Historical entry: 2025-06-09
 - Historical entry: 2025-06-10
+- Historical entry: 2025-06-11
