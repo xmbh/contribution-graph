@@ -9308,3 +9308,4 @@
 - Historical entry: 2025-06-19
 - Historical entry: 2025-06-20
 - Historical entry: 2025-06-21
+- Historical entry: 2025-06-22
