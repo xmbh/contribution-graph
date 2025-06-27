@@ -9313,3 +9313,4 @@
 - Historical entry: 2025-06-24
 - Historical entry: 2025-06-25
 - Historical entry: 2025-06-26
+- Historical entry: 2025-06-27
