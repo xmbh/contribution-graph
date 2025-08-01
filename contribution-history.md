@@ -9348,3 +9348,4 @@
 - Historical entry: 2025-07-29
 - Historical entry: 2025-07-30
 - Historical entry: 2025-07-31
+- Historical entry: 2025-08-01
