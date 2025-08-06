@@ -9353,3 +9353,4 @@
 - Historical entry: 2025-08-03
 - Historical entry: 2025-08-04
 - Historical entry: 2025-08-05
+- Historical entry: 2025-08-06
