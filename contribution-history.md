@@ -9359,3 +9359,4 @@
 - Historical entry: 2025-08-09
 - Historical entry: 2025-08-10
 - Historical entry: 2025-08-11
+- Historical entry: 2025-08-12
