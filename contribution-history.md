@@ -9367,3 +9367,4 @@
 - Historical entry: 2025-08-17
 - Historical entry: 2025-08-18
 - Historical entry: 2025-08-19
+- Historical entry: 2025-08-20
