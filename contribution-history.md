@@ -9380,3 +9380,4 @@
 - Historical entry: 2025-08-30
 - Historical entry: 2025-08-31
 - Historical entry: 2025-09-01
+- Historical entry: 2025-09-02
