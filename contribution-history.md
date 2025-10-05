@@ -9413,3 +9413,4 @@
 - Historical entry: 2025-10-02
 - Historical entry: 2025-10-03
 - Historical entry: 2025-10-04
+- Historical entry: 2025-10-05
