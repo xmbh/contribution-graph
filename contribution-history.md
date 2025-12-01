@@ -9470,3 +9470,4 @@
 - Historical entry: 2025-11-28
 - Historical entry: 2025-11-29
 - Historical entry: 2025-11-30
+- Historical entry: 2025-12-01
