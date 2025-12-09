@@ -9478,3 +9478,4 @@
 - Historical entry: 2025-12-06
 - Historical entry: 2025-12-07
 - Historical entry: 2025-12-08
+- Historical entry: 2025-12-09
