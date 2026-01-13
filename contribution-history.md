@@ -9513,3 +9513,4 @@
 - Historical entry: 2026-01-10
 - Historical entry: 2026-01-11
 - Historical entry: 2026-01-12
+- Historical entry: 2026-01-13
