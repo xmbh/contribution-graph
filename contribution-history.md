@@ -9773,3 +9773,4 @@
 - Historical entry: 2026-01-09
 - Historical entry: 2026-01-14
 - Historical entry: 2026-01-18
+- Historical entry: 2026-01-21
