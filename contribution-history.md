@@ -9525,3 +9525,4 @@
 - Historical entry: 2026-01-22
 - Historical entry: 2026-01-23
 - Historical entry: 2026-01-24
+- Historical entry: 2026-01-25
