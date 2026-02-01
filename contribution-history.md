@@ -9532,3 +9532,4 @@
 - Historical entry: 2026-01-29
 - Historical entry: 2026-01-30
 - Historical entry: 2026-01-31
+- Historical entry: 2026-02-01
