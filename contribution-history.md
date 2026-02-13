@@ -9544,3 +9544,4 @@
 - Historical entry: 2026-02-10
 - Historical entry: 2026-02-11
 - Historical entry: 2026-02-12
+- Historical entry: 2026-02-13
