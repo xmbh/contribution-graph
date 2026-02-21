@@ -9790,3 +9790,4 @@
 - Historical entry: 2026-02-15
 - Historical entry: 2026-02-16
 - Historical entry: 2026-02-17
+- Historical entry: 2026-02-21
