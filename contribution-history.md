@@ -9554,3 +9554,4 @@
 - Historical entry: 2026-02-20
 - Historical entry: 2026-02-21
 - Historical entry: 2026-02-22
+- Historical entry: 2026-02-23
