@@ -9791,3 +9791,4 @@
 - Historical entry: 2026-02-16
 - Historical entry: 2026-02-17
 - Historical entry: 2026-02-21
+- Historical entry: 2026-02-23
