@@ -9818,3 +9818,4 @@
 - Historical entry: 2026-03-31
 - Historical entry: 2026-04-03
 - Historical entry: 2026-04-04
+- Historical entry: 2026-04-05
