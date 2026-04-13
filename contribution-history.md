@@ -9603,3 +9603,4 @@
 - Historical entry: 2026-04-10
 - Historical entry: 2026-04-11
 - Historical entry: 2026-04-12
+- Historical entry: 2026-04-13
