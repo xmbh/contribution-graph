@@ -9607,3 +9607,4 @@
 - Historical entry: 2026-04-14
 - Historical entry: 2026-04-15
 - Historical entry: 2026-04-16
+- Historical entry: 2026-04-17
