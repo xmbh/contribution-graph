@@ -9611,3 +9611,4 @@
 - Historical entry: 2026-04-18
 - Historical entry: 2026-04-19
 - Historical entry: 2026-04-20
+- Historical entry: 2026-04-21
