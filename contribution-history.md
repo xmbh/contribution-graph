@@ -9825,3 +9825,4 @@
 - Historical entry: 2026-04-21
 - Historical entry: 2026-04-23
 - Historical entry: 2026-04-24
+- Historical entry: 2026-04-25
