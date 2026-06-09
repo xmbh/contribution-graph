@@ -9660,3 +9660,4 @@
 - Historical entry: 2026-06-06
 - Historical entry: 2026-06-07
 - Historical entry: 2026-06-08
+- Historical entry: 2026-06-09
