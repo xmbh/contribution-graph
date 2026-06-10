@@ -9847,3 +9847,4 @@
 - Historical entry: 2026-06-01
 - Historical entry: 2026-06-07
 - Historical entry: 2026-06-09
+- Historical entry: 2026-06-10
