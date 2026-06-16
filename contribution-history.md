@@ -9851,3 +9851,4 @@
 - Historical entry: 2026-06-11
 - Historical entry: 2026-06-13
 - Historical entry: 2026-06-14
+- Historical entry: 2026-06-16
