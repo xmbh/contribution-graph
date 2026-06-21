@@ -9672,3 +9672,4 @@
 - Historical entry: 2026-06-18
 - Historical entry: 2026-06-19
 - Historical entry: 2026-06-20
+- Historical entry: 2026-06-21
