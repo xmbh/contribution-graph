@@ -9701,3 +9701,4 @@
 - Historical entry: 2026-07-17
 - Historical entry: 2026-07-18
 - Historical entry: 2026-07-19
+- Historical entry: 2026-07-20
