@@ -9738,3 +9738,4 @@
 - Historical entry: 2026-08-23
 - Historical entry: 2026-08-24
 - Historical entry: 2026-08-25
+- Historical entry: 2026-08-26
