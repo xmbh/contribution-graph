@@ -9870,3 +9870,4 @@
 - Historical entry: 2026-08-14
 - Historical entry: 2026-08-21
 - Historical entry: 2026-08-31
+- Historical entry: 2026-09-02
