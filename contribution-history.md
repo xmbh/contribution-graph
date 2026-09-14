@@ -9876,3 +9876,4 @@
 - Historical entry: 2026-09-07
 - Historical entry: 2026-09-10
 - Historical entry: 2026-09-12
+- Historical entry: 2026-09-14
