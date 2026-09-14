@@ -9757,3 +9757,4 @@
 - Historical entry: 2026-09-11
 - Historical entry: 2026-09-12
 - Historical entry: 2026-09-13
+- Historical entry: 2026-09-14
